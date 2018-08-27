@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //1
+    <string name="subat2017_1">1. Aşağıdakilerden hangisi, ilk yardım uygulamalarında ilk yardımcının kendisi ve kazazede için alması gereken önlemlerden biri değildir?</string>
+    <string name="subat2017_1_a">Kırıklara yerinde müdahale etmesi</string>
+    <string name="subat2017_1_b">Kazazedenin korku ve endişelerini gidermesi</string>
+    <string name="subat2017_1_c">Kazazedeyi hareket ettirmeden müdahale yapması</string>
+    <string name="subat2017_1_d">Kendisinden önce kazazedenin emniyetini sağlaması</string>
+    //2
+    <string name="subat2017_2">2. Aşağıdakilerden hangisi, vücuda gerekli olan gaz alışverişi görevini yaparak hücre ve dokuların oksijenlenmesini sağlayan organlardandır?</string>
+    <string name="subat2017_2_a">Mide</string>
+    <string name="subat2017_2_b">Böbrek</string>
+    <string name="subat2017_2_c">Akciğer</string>
+    <string name="subat2017_2_d">Pankreas</string>
+    //3
+    <string name="subat2017_3">3. Kaza sonrası olay yerini değerlendirmenin amacı aşağıdakilerden hangisidir?</string>
+    <string name="subat2017_3_a">Yaralı sayısının ve türlerinin belirlenmesi</string>
+    <string name="subat2017_3_b">Sağlık personeli niteliğinin kazanılması</string>
+    <string name="subat2017_3_c">Kazazedelerin özel yaşamlarıyla ilgilenilmesi</string>
+    <string name="subat2017_3_d">Kaza yapmış araçların cins ve modelinin tespit edilmesi</string>
+    //4
+    <string name="subat2017_4">4. Solunum durmasında dudaklar, parmak uçları ve burun ucunda görülen morarmaların sebebi aşağıdakilerden hangisidir?</string>
+    <string name="subat2017_4_a">Su kaybı</string>
+    <string name="subat2017_4_b">Oksijensizlik</string>
+    <string name="subat2017_4_c">Beslenme yetersizliği</string>
+    <string name="subat2017_4_d">Karbonmonoksit eksikliği</string>
+    //5
+    <string name="subat2017_5">5. Yetişkinlerde temel yaşam desteği uygulamasının 1 turunda yapılan kalp masajı ve suni solunum sayıları hangisinde doğru olarak verilmiştir?\n
+     \n     &#160; &#160; &#160; Kalp masajı&#160;&#160;	Suni solunum</string>
+    <string name="subat2017_5_a">10 &#160;&#160;&#160;&#160;&#160; &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1</string>
+    <string name="subat2017_5_b">20 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;	1</string>
+    <string name="subat2017_5_c">30 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;	2</string>
+    <string name="subat2017_5_d">40 &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;	2</string>
+    //6
+    <string name="subat2017_6">6.I. Kuvvetle arkaya ve yukarı doğru bastırılır.\n
+II.	Kazazedenin arkasına geçip sarılarak gövdesi kavranır.\n
+III.	Bir elin başparmağı midenin üst kısmına, göğüs kemiği altına gelecek şekilde yumruk yaparak konur. \n
+Bilinci açık ve tam tıkanıklık yaşayan bir kazazedeye Heimlich Manevrası
+uygulayan bir ilk yardımcının, uygulama sıralaması nasıl olmalıdır?
+</string>
+    <string name="subat2017_6_a">II - I - III</string>
+    <string name="subat2017_6_b">II - III - I</string>
+    <string name="subat2017_6_c">III - I - II</string>
+    <string name="subat2017_6_d">III - II - I</string>
+    //7
+    <string name="subat2017_7">7. Bacaktaki kanamalarda şekilde gösterilen hangi bölgeye basınç uygulanmalıdır?</string>
+    <string name="subat2017_7_a">Kasık</string>
+    <string name="subat2017_7_b">Boyun</string>
+    <string name="subat2017_7_c">Koltuk altı</string>
+    <string name="subat2017_7_d">Köprücük kemiği üzeri</string>
+    //8
+    <string name="subat2017_8">8. Aşağıdakilerden hangisi, şoka girmiş kazazedede görülebilecek belirtilerden biri değildir?</string>
+    <string name="subat2017_8_a">Kan basıncında yükselme</string>
+    <string name="subat2017_8_b">Bilinç seviyesinde azalma</string>
+    <string name="subat2017_8_c">Hızlı ve yüzeysel solunum</string>
+    <string name="subat2017_8_d">Ciltte soğukluk, solukluk ve nemlilik</string>
+    //9
+    <string name="subat2017_9">9. Aşağıdakilerden hangisi, delici karın yaralanmalarında yapılan doğru ilk yardım uygulamalarındandır?</string>
+    <string name="subat2017_9_a">Ağızdan yiyecek ya da içecek verilmesi</string>
+    <string name="subat2017_9_b">Dışarı çıkan organların içeri sokulmaya çalışılması</string>
+    <string name="subat2017_9_c">Isı kaybını önlemek için kazazedeye soğuk uygulama yapılması</string>
+    <string name="subat2017_9_d">Kazazedenin bilinci yerindeyse sırtüstü pozisyonda bacaklar bükülmüş olarak yatırılması</string>
+    //10
+    <string name="subat2017_10">10.	Aşağıdakilerden hangisi, burkulmalarda yapılan hatalı ilk yardım uygulamalarındandır?</string>
+    <string name="subat2017_10_a">Tıbbi yardım istenmesi</string>
+    <string name="subat2017_10_b">Burkulan bölgenin hareket ettirilmesi</string>
+    <string name="subat2017_10_c">Sıkıştırıcı bir bandajla burkulan eklemin tespit edilmesi</string>
+    <string name="subat2017_10_d">Şişliği azaltmak için burkulan bölgenin yukarı kaldırılması</string>
+    //11
+    <string name="subat2017_11">11.	Bilinci kapalı ve solunumu olan bir kazazedeye, herhangi bir yaralanması yoksa aşağıdaki pozisyonlardan hangisi verilmelidir?</string>
+    <string name="subat2017_11_a">Baş-çene pozisyonu</string>
+    <string name="subat2017_11_b">Alt-çene pozisyonu</string>
+    <string name="subat2017_11_c">Koma pozisyonu</string>
+    <string name="subat2017_11_d">Şok pozisyonu</string>
+    //12
+    <string name="subat2017_12">12.	Beyindeki hücrelerin kontrol edilemeyen, ani, aşırı ve anormal deşarjlarına bağlı olarak ortaya çıkan durumdur.\n
+Bu cümlede tanımı yapılan kavram, aşağıdakilerden hangisidir?
+</string>
+    <string name="subat2017_12_a">Şok</string>
+    <string name="subat2017_12_b">Diyabet</string>
+    <string name="subat2017_12_c">Hipertansiyon</string>
+    <string name="subat2017_12_d">Sara krizi</string>
+    //13
+    <string name="subat2017_13">13.	I. Bir ilk yardımcı tarafından uygulanır.\n
+II. Yürüyemeyen ya da bilinci kapalı olan kişiler için kullanılır.\n
+Yaralı taşımada kullanılan itfaiyeci yöntemi ile ilgili verilenler için, aşağıdakilerden hangisi söylenebilir?
+</string>
+    <string name="subat2017_13_a">I. doğru, II. yanlış</string>
+    <string name="subat2017_13_b">I. yanlış, II. doğru</string>
+    <string name="subat2017_13_c">Her ikisi de doğru</string>
+    <string name="subat2017_13_d">Her ikisi de yanlış</string>
+    //14
+    <string name="subat2017_14">14.	Aşağıdakilerden hangisi sürücülerden beklenen olumlu davranış özelliklerindendir?</string>
+    <string name="subat2017_14_a">Saygıyı öncelikle başkalarından beklemek</string>
+    <string name="subat2017_14_b">Paylaşmayı bilmek ve saygılı olmak</string>
+    <string name="subat2017_14_c">Kendi kendine kurallar koymak</string>
+    <string name="subat2017_14_d">Kendini üstün görmek</string>
+    //15
+    <string name="subat2017_15">15.	Trafik ortamını paylaşanlarda, aşağıdaki tutum davranışlardan hangisinin olması güvenli sürüşü olumsuz etkiler?</string>
+    <string name="subat2017_15_a">Sabırlı ve hoşgörülü olma</string>
+    <string name="subat2017_15_b">Herkesin hata yapabileceğini düşünme</string>
+    <string name="subat2017_15_c">Öz eleştiri yapabilen kişiliğe sahip olma</string>
+    <string name="subat2017_15_d">Diğer sürücülerin hatalarını düzeltmeye çalışma</string>
+    //16
+    <string name="subat2017_16">16. I.Çocuk trafik eğitim parklarının yapılma, açılma, eğitim, denetim ve çalışma esaslarını belirlemek\n
+II.	Sürücü adaylarının teorik ve uygulamalı sınavlarını yapmak ve başarılı olanlara sertifika verilmesini sağlamak\n
+III.	Kara yollarında can ve mal güvenliği yönünden gerekli düzenleme ve işaretlemeleri yaparak tedbirleri almak ve aldırmak\n
+Verilenlerden hangileri Milli Eğitim Bakanlığının trafikle ilgili görevlerindendir?
+</string>
+    <string name="subat2017_16_a">I ve II.</string>
+    <string name="subat2017_16_b">I ve III.</string>
+    <string name="subat2017_16_c">II ve III.</string>
+    <string name="subat2017_16_d">I, II ve III.</string>
+    //17
+    <string name="subat2017_17">17.	Araçların niteliklerini tespit ve kontrol edebilecek cihaz ve personel bulunan, teknik kontrolü yapılan yerlere ne ad verilir?</string>
+    <string name="subat2017_17_a">Muayene istasyonu</string>
+    <string name="subat2017_17_b">Akaryakıt istasyonu</string>
+    <string name="subat2017_17_c">Araç tartı istasyonu</string>
+    <string name="subat2017_17_d">Servis istasyonu</string>
+    //18
+    <string name="subat2017_18">18.	Trafik görevlisinin hangi hareketi zorunlu olarak durmayı gerektirir?</string>
+    <string name="subat2017_18_a"></string>
+    <string name="subat2017_18_b"></string>
+    <string name="subat2017_18_c"></string>
+    <string name="subat2017_18_d"></string>
+    //19
+    <string name="subat2017_19">19. “Trafik kazalarında insan, araç, yol ve iklim
+koşulları etkili olmaktadır.”\n
+Buna göre aşağıdaki trafik işaretlerinden hangisi, yoldan kaynaklanan bir tehlike olabileceğini bildirir?
+</string>
+    <string name="subat2017_19_a"></string>
+    <string name="subat2017_19_b"></string>
+    <string name="subat2017_19_c"></string>
+    <string name="subat2017_19_d"></string>
+    //20
+    <string name="subat2017_20">20.	Şekildeki trafik işaretini gören sürücünün aşağıdakilerden hangisini yapması yanlıştır?</string>
+    <string name="subat2017_20_a">Yolu kontrol etmesi</string>
+    <string name="subat2017_20_b">Öndeki aracı geçmesi</string>
+    <string name="subat2017_20_c">Aracının hızını azaltması</string>
+    <string name="subat2017_20_d">Geçiş hakkını yayalara vermesi</string>
+    //21
+    <string name="subat2017_21">21.	Aşağıdaki trafik işaretlerinden hangisi, kamyonlar için öndeki aracı geçme yasağını bildirir?</string>
+    <string name="subat2017_21_a"></string>
+    <string name="subat2017_21_b"></string>
+    <string name="subat2017_21_c"></string>
+    <string name="subat2017_21_d"></string>
+    //22
+    <string name="subat2017_22">22. Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?</string>
+    <string name="subat2017_22_a">Dönel kavşak yaklaşımını</string>
+    <string name="subat2017_22_b">İleri ve sola mecburi yönü</string>
+    <string name="subat2017_22_c">Sağa ve sola mecburi yönü</string>
+    <string name="subat2017_22_d">Ada etrafında dönüleceğini</string>
+    //23
+    <string name="subat2017_23">23. Ticari amaçla yük taşımacılığı yapan bir
+şoförün aşağıdaki araçlardan hangisini, 24 saatlik herhangi bir süre içinde, toplam olarak 9 ve devamlı olarak 4,5 saatten fazla sürmesi yasaktır?
+</string>
+    <string name="subat2017_23_a"></string>
+    <string name="subat2017_23_b"></string>
+    <string name="subat2017_23_c"></string>
+    <string name="subat2017_23_d"></string>
+    //24
+    <string name="subat2017_24">24.	Konvoy hâlinde yavaş seyreden araçların arasındaki mesafe ne kadar olmalıdır?</string>
+    <string name="subat2017_24_a">Araç uzunluğunun üç katı kadar</string>
+    <string name="subat2017_24_b">Trafik ve yol durumuna göre istenildiği kadar</string>
+    <string name="subat2017_24_c">Aracın cinsi ve teknik özelliklerinin gerektirdiği kadar</string>
+    <string name="subat2017_24_d">Kendilerini geçmek isteyen araçların güvenle girebilecekleri kadar</string>
+    //25
+    <string name="subat2017_25">25.	Şekildeki bölünmüş kara yolunda,
+3 numaralı araç sürücüsünün azami
+(en yüksek) hızı saatte kaç kilometredir?
+</string>
+    <string name="subat2017_25_a">30</string>
+    <string name="subat2017_25_b">50</string>
+    <string name="subat2017_25_c">70</string>
+    <string name="subat2017_25_d">90</string>
+    //26
+    <string name="subat2017_26">26.	I. Yaya ve okul geçitlerine yaklaşırken\n
+II.	Görüş yetersizliği olan tepe üstü ve dönemeçlerde\n
+III.	Kavşaklarda, demir yolu geçitlerinde ve buralara yaklaşırken\n
+Yukarıdakilerin hangilerinde bir taşıtın önündeki taşıtı geçmesi yasaktır?</string>
+    <string name="subat2017_26_a">Yalnız I</string>
+    <string name="subat2017_26_b">I ve II.</string>
+    <string name="subat2017_26_c">II ve III.</string>
+    <string name="subat2017_26_d">I, II ve III.</string>
+    //27
+    <string name="subat2017_27">27.	Dönel kavşaklardaki geriye dönüşlerde aşağıdakilerden hangisinin yapılması yasaktır?</string>
+    <string name="subat2017_27_b">Dönüş sonrası hızının gerektirdiği şeride girilmesi</string>
+    <string name="subat2017_27_c">Orta adaya bitişik şeritten dönüşe geçilmesi</string>
+    <string name="subat2017_27_d">Sağa ve sola dönüş kurallarına uyulması</string>
+    //28
+    <string name="subat2017_28">28. Şekildeki kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?</string>
+    <string name="subat2017_28_a">1 - 2 - 3</string>
+    <string name="subat2017_28_b">1 - 3 - 2</string>
+    <string name="subat2017_28_c">2 - 3 - 1</string>
+    <string name="subat2017_28_d">3 - 2 - 1</string>
+    //29
+    <string name="subat2017_29">29.	Fazla eğimli yollarda karşılaşma hâllerinde, çıkan araç için geçiş güç veya mümkün değilse güvenli geçişi sağlamak üzere, inen araçların aşağıdakilerden hangisini yapması yanlıştır?</string>
+    <string name="subat2017_29_a">Varsa önceden sığınma cebine girmesi</string>
+    <string name="subat2017_29_b">Sığınma cebi yoksa sağ kenara yanaşıp durması</string>
+    <string name="subat2017_29_c">Hızını artırıp daralan yol kesimine önce girmeye gayret etmesi</string>
+    <string name="subat2017_29_d">Çıkan araç için manevra imkânı bulunmadığının açıkça anlaşılması hâlinde geri gitmesi</string>
+    //30
+    <string name="subat2017_30">30.	• Motor durdurulur.\n
+•	Araç el freni ile tespit edilir.\n
+•	Eğimli yollarda inişte geri, yokuşta birinci vitese takılır.\n
+Yukarıda verilen esaslar hangi durumda uygulanır?
+</string>
+    <string name="subat2017_30_a">Durma</string>
+    <string name="subat2017_30_b">Park etme</string>
+    <string name="subat2017_30_c">Geri gitme</string>
+    <string name="subat2017_30_d">U dönüşü yapma</string>
+    //31
+    <string name="subat2017_31">31.	Yerleşim birimleri dışındaki karayollarında geceleri seyrederken, yeterince aydınlatılmamış tünellere girerken, benzeri yer ve hâllerde -- - - yakılması mecburidir.\n
+Verilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?
+</string>
+    <string name="subat2017_31_a">sis ışıklarının</string>
+    <string name="subat2017_31_b">park ışıklarının</string>
+    <string name="subat2017_31_c">yakını gösteren ışıkların</string>
+    <string name="subat2017_31_d">uzağı gösteren ışıkların</string>
+    //32
+    <string name="subat2017_32">32.	Araçların yüklenmesine ilişkin usullere göre yolcu ve eşya taşımalarında kullanılan araçların, her yılın 1 Aralık ile
+1 Nisan tarihleri arasında aşağıdakilerden hangisini kullanması zorunludur?</string>
+    <string name="subat2017_32_a">Kış lastiği</string>
+    <string name="subat2017_32_b">Yaz lastiği</string>
+    <string name="subat2017_32_c">Polen filtresi</string>
+    <string name="subat2017_32_d">Cam suyu antifrizi</string>
+    //33
+    <string name="subat2017_33">33.	Aşağıdakilerden hangisi otoyolda yapılabilecek davranışlardandır?</string>
+    <string name="subat2017_33_a">Geri gitmek</string>
+    <string name="subat2017_33_b">Geriye dönmek</string>
+    <string name="subat2017_33_c">Zorunluluk dışında park etmek</string>
+    <string name="subat2017_33_d">Hızına uygun şeritte gitmek</string>
+    //34
+    <string name="subat2017_34">34. “Sürücü belgesi, sürücünün işlemiş olduğu
+kusura göre belirli bir süreliğine trafik zabıtalarınca geri alınır.”
+Buna göre aşağıdakilerden hangisi, sürücü belgesinin geri alınmasını gerektiren kusurlardan biri değildir?
+</string>
+    <string name="subat2017_34_a">Ölümlü kazalarda asli kusurlu olmak</string>
+    <string name="subat2017_34_b">Uyuşturucu veya uyarıcı madde kullanmak</string>
+    <string name="subat2017_34_c">Trafik işaretiyle belirlenmiş hız sınırını
+%10 oranında geçmek</string>
+    <string name="subat2017_34_d">Kanunda belirtilen miktarın üzerinde alkollü olarak araç kullanmak</string>
+    //35
+    <string name="subat2017_35">35.	Aşağıdakilerden hangisi kazalara ait bir özelliktir?</string>
+    <string name="subat2017_35_a">Önceden tahmin edilebilmesi</string>
+    <string name="subat2017_35_b">Doğal olarak meydana gelmesi</string>
+    <string name="subat2017_35_c">Sadece çevresel etkilere bağlı olması</string>
+    <string name="subat2017_35_d">Önlemlere bağlı olarak azalabilmesi</string>
+    //36
+    <string name="subat2017_36">36.	Kara Yolları Trafik Yönetmeliği’ne göre aşağıdaki durumlardan hangisinin oluşması hâlinde, araç için yeni Tescil Belgesi düzenlenmesi zorunludur?</string>
+    <string name="subat2017_36_a">Hurdaya ayrılması</string>
+    <string name="subat2017_36_b">Teknik değişiklik yaptırılması</string>
+    <string name="subat2017_36_c">Aracın yaralanmalı kazaya karışması</string>
+    <string name="subat2017_36_d">Aracın teknik muayenesinin zamanında yaptırılmaması</string>
+    //37
+    <string name="subat2017_37">37.	Aşağıdakilerden hangisi, otomobillerde bulundurulması gereken zorunlu malzeme ve gereçlerden biri değildir?</string>
+    <string name="subat2017_37_a">Üçgen reflektör</string>
+    <string name="subat2017_37_b">İlk yardım çantası</string>
+    <string name="subat2017_37_c">Yangın söndürme cihazı</string>
+    <string name="subat2017_37_d">Sarı ışıklı, dönerli uyarı lambası</string>
+    //38
+    <string name="subat2017_38">38. Aşağıdakilerden hangisi, aracın hızı
+arttıkça meydana gelebilecek tehlikeli durumlardandır?
+</string>
+    <string name="subat2017_38_a">Fren mesafesinin artması</string>
+    <string name="subat2017_38_b">Güvenli sürüşün sağlanması</string>
+    <string name="subat2017_38_c">Aracın kontrol edilebilirliğinin artması</string>
+    <string name="subat2017_38_d">Engelle karşılaşıldığında, doğru noktada durulması</string>
+    //39
+    <string name="subat2017_39">39. Aşağıdakilerden hangisi, trafik denetim
+görevlilerinin istemesi hâlinde sürücülerin beyan etmek zorunda olduğu belgelerden biri değildir?
+</string>
+    <string name="subat2017_39_a">Sürücü belgesi</string>
+    <string name="subat2017_39_b">Araç bakım kartı</string>
+    <string name="subat2017_39_c">Araç tescil belgesi</string>
+    <string name="subat2017_39_d">Nüfus hüviyet cüzdanı</string>
+    //40
+    <string name="subat2017_40">40.	Egzoz emisyon ölçümünün yapılması, araçların çevreye verdiği zararlardan hangisini önlemeye yönelik bir uygulamadır?  </string>
+    <string name="subat2017_40_a">Görüntü kirliliğini</string>
+    <string name="subat2017_40_b">Gürültü kirliliğini</string>
+    <string name="subat2017_40_c">Hava kirliliğini</string>
+    <string name="subat2017_40_d">Su kirliliğini</string>
+    //41
+    <string name="subat2017_41">41.	Motordan gelen sıcak suyu, bünyesinde bulunan çok ince hava temas yüzeyleri (petekler) aracılığı ile soğutan parçaya
+- - - - denir.\n
+Verilen cümlede boş bırakılan yere, aşağıdakilerden hangisinin yazılması uygundur?
+</string>
+    <string name="subat2017_41_a">radyatör</string>
+    <string name="subat2017_41_b">alternatör</string>
+    <string name="subat2017_41_c">amortisör</string>
+    <string name="subat2017_41_d">distribütör</string>
+    //42
+    <string name="subat2017_42">42.	Taşıtlardaki süspansiyon sisteminin görevi aşağıdakilerden hangisidir?</string>
+    <string name="subat2017_42_a">Yakıt tüketimini azaltmak</string>
+    <string name="subat2017_42_b">Aracın dönüşlerini sağlamak</string>
+    <string name="subat2017_42_c">Akünün şarj olmasını sağlamak</string>
+    <string name="subat2017_42_d">Titreşimleri, salınımları ve ani şokları sönümlemek</string>
+    //43
+    <string name="subat2017_43">43.	Aracın gösterge panelinde, aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, arka cam rezistansının çalışmakta olduğunu bildirir?</string>
+    <string name="subat2017_43_a"></string>
+    <string name="subat2017_43_b"></string>
+    <string name="subat2017_43_c"></string>
+    <string name="subat2017_43_d"></string>
+    //44
+    <string name="subat2017_44">44.	I. Lastik hava basınçlarının ve yakıt seviyesinin kontrol edilmesi\n
+II.	Aydınlatma ve sinyal sisteminin düzgün çalışıp çalışmadığının kontrol edilmesi\n
+III.	Ön koltuklar, kafalıkları ve aynanın beden ölçülerine uygun olarak ayarlanması\n
+Verilenlerden hangileri, aracı kullanmaya başlamadan önce yapılması gereken hazırlıklardandır?
+</string>
+    <string name="subat2017_44_a">Yalnız I</string>
+    <string name="subat2017_44_b">Yalnız II</string>
+    <string name="subat2017_44_c">Yalnız III</string>
+    <string name="subat2017_44_d">I, II ve III.</string>
+    //45
+    <string name="subat2017_45">45.	Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?</string>
+    <string name="subat2017_45_a">Fren balatasının</string>
+    <string name="subat2017_45_b">Polen filtresinin</string>
+    <string name="subat2017_45_c">Yakıt filtresinin</string>
+    <string name="subat2017_45_d">Geri vites müşirinin</string>
+    //46
+    <string name="subat2017_46">46.	Çalışan parçalarda sürtünmeye bağlı olarak meydana gelen aşınmayı azaltan madde hangisidir?</string>
+    <string name="subat2017_46_a">Antifriz</string>
+    <string name="subat2017_46_b">Motor yağı</string>
+    <string name="subat2017_46_c">Hidrolik yağı</string>
+    <string name="subat2017_46_d">Akü elektroliti</string>
+    //47
+    <string name="subat2017_47">47.	Araç gösterge panelinde “ABS” uyarı ışığının yanması, aracın hangi sisteminde arıza olduğunu belirtir?</string>
+    <string name="subat2017_47_a">Fren</string>
+    <string name="subat2017_47_b">Yakıt</string>
+    <string name="subat2017_47_c">Yağlama</string>
+    <string name="subat2017_47_d">Soğutma</string>
+    //48
+    <string name="subat2017_48">48.	Karlı veya buzlu yollarda aracın hangi lastiklerine zincir takılması uygundur?</string>
+    <string name="subat2017_48_a">Ön lastiklerin birine</string>
+    <string name="subat2017_48_b">Arka lastiklerin birine</string>
+    <string name="subat2017_48_c">Çekici lastiklerin ikisine</string>
+    <string name="subat2017_48_d">Çekici olmayan lastiklerin ikisine</string>
+    //49
+    <string name="subat2017_49">49.	Seyir hâlindeyken motordan “anormal sesler” gelmesi durumunda aşağıdakilerden hangisi yapılır?</string>
+    <string name="subat2017_49_a">Motorun devri artırılır.</string>
+    <string name="subat2017_49_b">Açık camlar varsa kapatılır.</string>
+    <string name="subat2017_49_c">Önemsenmez yola devam edilir.</string>
+    <string name="subat2017_49_d">Trafik kurallarına uyarak durulur ve kontak kapatılır.</string>
+    //50
+    <string name="subat2017_50">50.	Araçta yakıt tasarrufu sağlamak için aşağıdakilerden hangisi yapılır?</string>
+    <string name="subat2017_50_a">Motor yüksek devirde kullanılır.</string>
+    <string name="subat2017_50_b">Eskiyen buji kabloları değiştirilir.</string>
+    <string name="subat2017_50_c">Trafiğin yoğun olduğu yollar seçilir.</string>
+    <string name="subat2017_50_d">Araç yokuş aşağı inerken vites boşa alınıp kontak kapatılır.</string>
+
+
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_dogru_yanlis"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.emre.ehliyesinavi.dogruYanlis">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.20">
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/durum"
+                android:layout_marginTop="30dp"
+                android:layout_marginLeft="111dp"
+                android:textSize="30dp"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.20">
+
+            <TextView
+                android:text="DOĞRU "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView13"
+                android:layout_marginLeft="50dp"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/dogruButton"
+                android:layout_marginLeft="80dp"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                 />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.20">
+
+            <TextView
+                android:text="YANLIŞ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView15"
+                android:layout_marginLeft="50dp"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                 />
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/yanlisButton"
+                android:layout_marginLeft="80dp"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                 />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.20">
+
+            <TextView
+                android:text="BOŞ   "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView17"
+                android:layout_marginLeft="50dp"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                 />
+
+            <TextView
+                android:text="TextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/bosButton"
+                android:layout_marginLeft="100dp"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                 />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.20">
+
+            <Button
+                android:text="Detaylı İncele"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/detayButton"
+                android:layout_marginLeft="100dp"
+                android:layout_marginTop="30dp"
+                android:textColor="@color/beyaz"
+                android:background="@drawable/main_button"
+                android:gravity="center"
+
+
+                 />
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

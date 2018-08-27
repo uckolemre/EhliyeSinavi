@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //              1
+    <string name="aralik2016_1">1. I. Yaşamı korumak\n
+                                    II.İyileşmeyi kolaylaştırmak\n
+                                    III.Durumun kötüye gitmesini önlemek\n
+                                Yukarıda verilenlerden hangileri ilk yardımın amaçlarındandır?
+\n</string>
+    <string name="aralik2016_1_a">Yalnız I\n</string>
+    <string name="aralik2016_1_b">I ve II\n</string>
+    <string name="aralik2016_1_c">II ve III\n</string>
+    <string name="aralik2016_1_d">I, II ve III\n</string>
+    //              2
+        <string name="aralik2016_2">2. “Vücut dokularının oksijen, besin, hormon, bağışıklık ve benzeri elemanlarını taşıyarak yeniden geriye toplayan sistemdir.”\n
+Yukarıdaki açıklama, vücudu oluşturan sistemlerden hangisine aittir?
+\n</string>
+    <string name="aralik2016_2_a">Hareket sistemi\n</string>
+    <string name="aralik2016_2_b">Sindirim sistemi\n</string>
+    <string name="aralik2016_2_c">Dolaşım sistemi\n</string>
+    <string name="aralik2016_2_d">Boşaltım sistemi\n</string>
+    //              3
+    <string name="aralik2016_3">3.	• Yaralanmanın ciddiyetinin değerlendirilmesi\n
+•	İlk yardım önceliklerinin belirlenmesi\n
+•	Yapılacak ilk yardım yönteminin belirlenmesi\n
+•	Güvenli bir müdahale sağlanması\n
+Verilenler aşağıdakilerden hangisinin amacını oluşturur?
+\n</string>
+    <string name="aralik2016_3_a">Yaralıyı değerlendirmenin\n\n</string>
+    <string name="aralik2016_3_b">Trafik kazalarını azaltmanın\n\n</string>
+    <string name="aralik2016_3_c">Sağlık personeli niteliği kazanmanın\n\n</string>
+    <string name="aralik2016_3_d">İnsanları zararlı alışkanlıklarından uzaklaştırmanın\n\n</string>
+    //              4
+    <string name="aralik2016_4">4. Resimde görülen ilk yardım uygulaması, aşağıdaki durumların hangisinde tercih edilmez?\\n</string>
+    <string name="aralik2016_4_a">Uzuv kopması varsa\n\n</string>
+    <string name="aralik2016_4_b">Baskı noktalarına baskı uygulamak yeterliyse\n\n</string>
+    <string name="aralik2016_4_c">Çok sayıda kazazedenin bulunduğu bir ortamda tek ilk yardımcı varsa\n\n</string>
+    <string name="aralik2016_4_d">Kanaması durdurulamayan kazazede güç koşullarda bir yere taşınacaksa\n\n</string>
+    //              5
+    <string name="aralik2016_5">5. I. Bir el kazazedenin alnına, diğer elin 2 parmağı çene kemiğinin üzerine konulur.\n
+II.	Alından bastırılıp çeneden kaldırılarak baş geriye doğru itilir.\n
+III.	İşlemler sırasında sert hareketler tercih edilir.\n
+Yukarıdakilerden hangileri, Baş geri-Çene yukarı pozisyonunun uygulama basamaklarındandır?\n</string>
+    <string name="aralik2016_5_a">I ve II\n</string>
+    <string name="aralik2016_5_b">II ve III\n</string>
+    <string name="aralik2016_5_c">I ve III\n</string>
+    <string name="aralik2016_5_d">I, II ve III\n</string>
+    //              6
+    <string name="aralik2016_6">6. Aşağıdakilerden hangisi, bebeklere yapılan suni solunum uygulamasında dikkat edilecek kurallardandır?\n\n</string>
+    <string name="aralik2016_6_a">Bebeğin yumuşak bir zemin üzerine, sırt üstü yatırılması\n\n</string>
+    <string name="aralik2016_6_b">Hava yolu tıkanıklığına neden olan yabancı cisim varsa bebeğin yutmasının sağlanması\n\n</string>
+    <string name="aralik2016_6_c">Bebeğin solunum yapıp yapmadığının bak-dinle-hisset yöntemiyle 1 dakika süre ile kontrol edilmesi\n\n</string>
+    <string name="aralik2016_6_d">Solunum yoksa ağzın, bebeğin ağız ve burnunu içine alacak şekilde yerleştirilip ağız dolusu nefes verilmesi\n\n</string>
+    //              7
+    <string name="aralik2016_7">7. Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?\n</string>
+    <string name="aralik2016_7_a">Yarı oturur pozisyon verilmesi\n\n</string>
+    <string name="aralik2016_7_b">Fiziksel hareketinin artırılması\n\n</string>
+    <string name="aralik2016_7_c">Hava yolu açıklığının sağlanması\n\n</string>
+    <string name="aralik2016_7_d">Soğuk suyla ıslatılmış çarşafla üzerinin örtülmesi\n\n</string>
+    //              8
+    <string name="aralik2016_8">8. Taş, yumruk ya da sopa gibi etkenlerin şiddetli olarak çarpması ile oluşan yaralara ne ad verilir?\n</string>
+    <string name="aralik2016_8_a">Kesik yaralar\n</string>
+    <string name="aralik2016_8_b">Ezikli yaralar\n</string>
+    <string name="aralik2016_8_c">Delici yaralar\n</string>
+    <string name="aralik2016_8_d">Parçalı yaralar\n</string>
+    //              9
+    <string name="aralik2016_9">9.	Bayılan bir kazazedenin kusması varsa hangi pozisyonda tutulmalıdır?\n</string>
+    <string name="aralik2016_9_a">Baş geride yarı oturuş\n</string>
+    <string name="aralik2016_9_b">Sırtüstü yatış\n</string>
+    <string name="aralik2016_9_c">Dik oturuş\n</string>
+    <string name="aralik2016_9_d">Yan yatış\n</string>
+    //              10
+    <string name="aralik2016_10">10. Trafik kazalarında ölümlerin % 80’i kafatası ve omurga yaralanmalarından olmaktadır. Bu yaralanmalarda bilinçli ilk yardım, sakatlıkları önler ve hayatı kurtarır.
+Buna göre, aşağıdakilerden hangisi kafatası ve omurga yaralanmalarında yapılması gereken ilk yardım uygulamalarındandır?\n</string>
+    <string name="aralik2016_10_a">Kazazedenin yalnız bırakılması\n\n</string>
+    <string name="aralik2016_10_b">Baş-boyun-gövde ekseninin korunması\n\n</string>
+    <string name="aralik2016_10_c">Bilinci açıksa hareket etmesinin sağlanması\n\n</string>
+    <string name="aralik2016_10_d">Hava yolu açıklığını sağlamak için komapozisyonu verilmesi\n\n</string>
+    //              11
+    <string name="aralik2016_11">11. Dıştan veya içten etki eden kuvvetlerle kemik dokusunda oluşan ayrılmaya veya bu sebeplerle kemiğin anatomik bütünlüğünün ve devamlılığının bozulmasına .........denir.\n
+Bu ifadede boş bırakılan yere aşağıdakilerden hangisi  yazılmalıdır?\n</string>
+    <string name="aralik2016_11_a">Kırık\n</string>
+    <string name="aralik2016_11_b">Çıkık\n</string>
+    <string name="aralik2016_11_c">Donma\n</string>
+    <string name="aralik2016_11_d">Burkulma\n</string>
+    //              12
+    <string name="aralik2016_12">12. Kaza geçirmiş yaralıda, solunum ve dolaşım durması varsa ya da olay yerinde yangın ve patlama gibi tehlikeli bir durum söz konusuysa omuriliğine zarar vermeden araçtan çıkarılmasında kullanılan tekniğe ne ad verilir?\n</string>
+    <string name="aralik2016_12_a">Ayak bileklerinden sürükleme yöntemi\n</string>
+    <string name="aralik2016_12_b">Heimlich manevrası\n</string>
+    <string name="aralik2016_12_c">Rentek manevrası\n</string>
+    <string name="aralik2016_12_d">İtfaiyeci yöntemi\n</string>
+    //              13
+    <string name="aralik2016_13">13. Aşağıdakilerden hangisi trafiğin düzenlenmesinde diğerlerine göre önceliğe sahiptir?\n</string>
+    <string name="aralik2016_13_a">Trafik ışıkları\n</string>
+    <string name="aralik2016_13_b">Trafik görevlisi\n</string>
+    <string name="aralik2016_13_c">Trafik levhaları\n</string>
+    <string name="aralik2016_13_d">Yer işaretlemeleri\n</string>
+    //              14
+    <string name="aralik2016_14">14. Araçların bir mülke girip çıkması için yapılmış olan yolun, kara yoluna bağlanan ve kara yolu sınır çizgisi içinde kalan kısmına ne ad verilir?\n</string>
+    <string name="aralik2016_14_a">Şerit\n</string>
+    <string name="aralik2016_14_b">Banket\n</string>
+    <string name="aralik2016_14_c">Geçiş yolu\n</string>
+    <string name="aralik2016_14_d">Bağlantı yolu\n</string>
+    //              15
+    <string name="aralik2016_15">15. Aşağıdakilerden hangisi Kara Yolları Genel Müdürlüğünün görev ve yetkilerindendir?\n</string>
+    <string name="aralik2016_15_a">Çocuk trafik eğitim parklarını yapmak\n\n</string>
+    <string name="aralik2016_15_b">Duran ve akan trafiği düzenlemek ve yönetmek\n\n</string>
+    <string name="aralik2016_15_c">Sürücü adaylarının teorik ve uygulamalı sınavlarını yapmak ve başarılı olanlara sertifika verilmesini sağlamak\n\n</string>
+    <string name="aralik2016_15_d">Tüm kara yollarındaki işaretleme standartlarını tespit etmek, yayınlamak ve kontrol etmek\n\n</string>
+    //              16
+    <string name="aralik2016_16">16. •  Gözlerini açık tutmakta zorlanıyorsa\n
+•	Dalıyor ya da dikkatini toplayamıyorsa\n
+Araç kullanırken yukarıda verilen belirtilerin sürücüde sezilmesi halinde aşağıdakilerden hangisi yapılmalıdır?
+\n</string>
+    <string name="aralik2016_16_a">Mola verilmeli\n</string>
+    <string name="aralik2016_16_b">Yola devam edilmeli\n</string>
+    <string name="aralik2016_16_c">Gözler ovuşturulmalı\n</string>
+    <string name="aralik2016_16_d">Baş dik tutulmaya çalışılmalı\n</string>
+    //              17
+    <string name="aralik2016_17">17. Aşağıdakilerden hangisi kasisli yol işaretidir?\n</string>
+    <string name="aralik2016_17_a">\n</string>
+    <string name="aralik2016_17_b">\n</string>
+    <string name="aralik2016_17_c">\n</string>
+    <string name="aralik2016_17_d">\n</string>
+    //              18
+    <string name="aralik2016_18">18. “Trafik kazalarında insan, araç, yol ve iklim koşulları etkili olmaktadır.”\n
+Buna göre, aşağıdaki trafik işaretlerinden hangisi iklim koşullarından kaynaklanan bir tehlike olabileceğini bildirir?
+\n</string>
+    <string name="aralik2016_18_a">\n</string>
+    <string name="aralik2016_18_b">\n</string>
+    <string name="aralik2016_18_c">\n</string>
+    <string name="aralik2016_18_d">\n</string>
+    //              19
+    <string name="aralik2016_19">19. Aralıklı olarak yanıp sönen kırmızı ışıkta sürücü ne yapmalıdır?\n\n</string>
+    <string name="aralik2016_19_a">Yavaşlayıp yolu kontrol ederek geçmeli\n\n</string>
+    <string name="aralik2016_19_b">Durmalı, trafik uygunsa devam etmeli\n\n</string>
+    <string name="aralik2016_19_c">Yeşil ışık yanıncaya kadar durmalı\n\n</string>
+    <string name="aralik2016_19_d">Durmadan dikkatli geçmeli\n\n</string>
+    //              20
+    <string name="aralik2016_20">20. Aşağıdaki trafik tanzim işaretlerinden hangisi, bütün yasaklama ve kısıtlamaların sona erdiğini bildirir?\n</string>
+    <string name="aralik2016_20_a">\n</string>
+    <string name="aralik2016_20_b">\n</string>
+    <string name="aralik2016_20_c">\n</string>
+    <string name="aralik2016_20_d">\n</string>
+    //              21
+    <string name="aralik2016_21">21. Şekildeki trafik işaretinin anlamı nedir?\n</string>
+    <string name="aralik2016_21_a">Taşıt giremez\n</string>
+    <string name="aralik2016_21_b">Motosiklet giremez\n</string>
+    <string name="aralik2016_21_c">Taşıt trafiğine kapalı yol\n\n</string>
+    <string name="aralik2016_21_d">Motosiklet hariç motorlu taşıt trafiğine kapalı yol\n\n</string>
+    //              22
+    <string name="aralik2016_22">22. Aksine bir işaret yoksa yerleşim yeri dışındaki bölünmüş kara yolunda, şekildeki 1 numaralı aracın azami (en yüksek) hızı saatte kaç kilometredir?\n</string>
+    <string name="aralik2016_22_a">50\n</string>
+    <string name="aralik2016_22_b">70\n</string>
+    <string name="aralik2016_22_c">90\n</string>
+    <string name="aralik2016_22_d">110\n</string>
+    //              23
+    <string name="aralik2016_23">23. Şekle göre, 1 numaralı aracın sürücüsü aşağıdakilerden hangisini yapmalıdır?\n</string>
+    <string name="aralik2016_23_a">Öndeki araca takip mesafesinden daha fazla yaklaşmalı\n\n</string>
+    <string name="aralik2016_23_b">Takip mesafesine uyarak bulunduğu şeridi izlemeli\n\n</string>
+    <string name="aralik2016_23_c">Hızını artırarak öndeki aracı geçmeli\n\n</string>
+    <string name="aralik2016_23_d">Öndeki aracın geç işaretine uymalı\n\n</string>
+    //              24
+    <string name="aralik2016_24">24. Şekildeki taşıt yolu üzerine çizilen yatay işaretlemeye göre araç sürücüsü nasıl davranmalıdır?\n</string>
+    <string name="aralik2016_24_a">50 metre sonra durmalı\n</string>
+    <string name="aralik2016_24_b">Asgari (en az) 50 km/saat hızla gitmeli\n\n</string>
+    <string name="aralik2016_24_c">Azami (en fazla) 50 km/saat hızla gitmeli\n\n</string>
+    <string name="aralik2016_24_d">Öndeki araçla arasında 50 metre mesafe bırakmalı\n\n</string>
+    //              25
+    <string name="aralik2016_25">25. Ticari amaçla yük taşımacılığı yapan ve azami ağırlığı 3,5 tonu geçen araçların şoförleri ile ticari amaçla yolcu taşımacılığı yapan ve taşıma kapasitesi şoförü dahil 9 kişiyi geçen araçların şoförlerinin, 24 saatlik herhangi bir süre içinde toplam olarak kaç saatten fazla araç sürmeleri yasaktır?\n</string>
+    <string name="aralik2016_25_a">6\n</string>
+    <string name="aralik2016_25_b">7\n</string>
+    <string name="aralik2016_25_c">8\n</string>
+    <string name="aralik2016_25_d">9\n</string>
+    //              26
+    <string name="aralik2016_26">26. Şekildeki kontrolsüz kavşakta ilk geçiş hakkını hangi numaralı araç kullanmalıdır?\n</string>
+    <string name="aralik2016_26_a">1\n</string>
+    <string name="aralik2016_26_b">2\n</string>
+    <string name="aralik2016_26_c">3\n</string>
+    <string name="aralik2016_26_d">4\n</string>
+    //              27
+    <string name="aralik2016_27">27. Şekildeki kavşakta sola dönüş yapacak olan 2 numaralı araç sürücüsü nasıl davranmalıdır?\n</string>
+    <string name="aralik2016_27_a">Dar bir kavisle dönmeli\n\n</string>
+    <string name="aralik2016_27_b">Hızını azaltmadan kavşağa girmeli\n\n</string>
+    <string name="aralik2016_27_c">Karşıya geçen yayaya yol vermeli\n\n</string>
+    <string name="aralik2016_27_d">İlk geçiş hakkını kendisi kullanmalı\n\n</string>
+    //              28
+    <string name="aralik2016_28">28. I. Dönüş ışıklarının “geç” anlamında kullanılması\n
+II.	Geceleri öndeki aracı yakından takip ederken kısa hüzmeli farların yakılması\n
+III.Sis ışıklarının, sis ve kar sebebiyle görüşün yetersiz olduğu haller dışında kullanılması\n
+Araç ışıkları ile ilgili olarak yukarıda verilenlerden hangileri yanlıştır?\n</string>
+    <string name="aralik2016_28_a">I ve II\n</string>
+    <string name="aralik2016_28_b">I ve III\n</string>
+    <string name="aralik2016_28_c">II ve III\n</string>
+    <string name="aralik2016_28_d">I, II ve III\n</string>
+    //              29
+    <string name="aralik2016_29">29. Aşağıdaki yakıtlardan hangisini kullanan araçların kapalı otoparka kabul edilmesi
+yasaktır?\n</string>
+    <string name="aralik2016_29_a">LPG\n</string>
+    <string name="aralik2016_29_b">Benzin\n</string>
+    <string name="aralik2016_29_c">Motorin\n</string>
+    <string name="aralik2016_29_d">Biyodizel\n</string>
+    //              30
+    <string name="aralik2016_30">30. Seyir esnasında araçlarda emniyet
+kemeri kullanılması, aşağıdakilerden hangisinin azalmasında etkili olur?\n</string>
+    <string name="aralik2016_30_a">Trafik kazalarının\n</string>
+    <string name="aralik2016_30_b">Trafik işaret levhalarının\n</string>
+    <string name="aralik2016_30_c">Trafikteki görevli sayısının\n</string>
+    <string name="aralik2016_30_d">Kaza anında ölüm ve yaralanmaların\n\n</string>
+    //              31
+    <string name="aralik2016_31">31. Yaralı veya acil hasta taşıyan özel araç sürücüleri, geçiş üstünlüğü hakkını nasıl kullanabilirler?\n</string>
+    <string name="aralik2016_31_a">Eskort eşliğinde\n</string>
+    <string name="aralik2016_31_b">Seyyar tepe lambası taktırarak\n\n</string>
+    <string name="aralik2016_31_c">Sesli ve ışıklı işaretler vererek\n\n</string>
+    <string name="aralik2016_31_d">Araçlarında bir gözcü bulundurarak\n\n</string>
+    //              32
+    <string name="aralik2016_32">32. I. Arkadan çarpma\n
+II.	Kavşaklarda geçiş hakkı kuralına uyma\n
+III.Geçme yasağı olan yerlerde öndeki aracı geçme\n
+Yukarıda verilenlerin hangileri, araç sürücülerinin trafik kazalarında asli (esas) kusurlarından sayılır?\n</string>
+    <string name="aralik2016_32_a">I ve II\n</string>
+    <string name="aralik2016_32_b">I ve III\n</string>
+    <string name="aralik2016_32_c">II ve III\n</string>
+    <string name="aralik2016_32_d">I, II ve III\n</string>
+    //              33
+    <string name="aralik2016_33">33. Çevre kirliliğini önlemek amacıyla yapılan çalışmalara  ne denir?\n</string>
+    <string name="aralik2016_33_a">Çevre\n</string>
+    <string name="aralik2016_33_b">Çevre hakkı\n</string>
+    <string name="aralik2016_33_c">Çevre düzeni\n</string>
+    <string name="aralik2016_33_d">Çevre koruma\n</string>
+    //              34
+    <string name="aralik2016_34">34. Aşağıdakilerden hangisinin trafikteki araçlarda bulunması zorunludur?\n</string>
+    <string name="aralik2016_34_a">Periyodik bakım kartı\n</string>
+    <string name="aralik2016_34_b">Araç tescil belgesi\n</string>
+    <string name="aralik2016_34_c">Yağ değişim kartı\n</string>
+    <string name="aralik2016_34_d">Kasko poliçesi\n</string>
+    //              35
+    <string name="aralik2016_35">35. I. Reflektör\n
+II.	İlk yardım çantası\n
+III.Yangın söndürme cihazı\n
+Otomobillerde yukarıda verilenlerden hangilerinin bulundurulması zorunludur?\n</string>
+    <string name="aralik2016_35_a">Yalnız I\n</string>
+    <string name="aralik2016_35_b">I ve II\n</string>
+    <string name="aralik2016_35_c">II ve III\n</string>
+    <string name="aralik2016_35_d">I, II ve III\n</string>
+    //              36
+    <string name="aralik2016_36">36. Motoru çalıştırırken uzun süreli marş yapılması aküye ve marş motoruna zarar verir.
+Buna göre, marş durumunda marş motoru dönmüyorsa sorun aşağıdakilerin hangisinden kaynaklanmış olabilir?\n</string>
+    <string name="aralik2016_36_a">Akünün boşalmasından\n\n</string>
+    <string name="aralik2016_36_b">Akünün tam şarjlı olmasından\n\n</string>
+    <string name="aralik2016_36_c">Hava filtresinin kirlenmesinden\n\n</string>
+    <string name="aralik2016_36_d">Akü kutup başlarının sıkı olmasından\n\n</string>
+    //              37
+    <string name="aralik2016_37">37. Araçlarda hangisinin bulunması, olası bir kaza anında ölüm ve yaralanma riskini azaltır?\n</string>
+    <string name="aralik2016_37_a">Alarm\n</string>
+    <string name="aralik2016_37_b">Hava yastığı\n</string>
+    <string name="aralik2016_37_c">Merkezi kilit\n</string>
+    <string name="aralik2016_37_d">Hız sabitleyici\n</string>
+    //              38
+    <string name="aralik2016_38">38. Aracın kontak anahtarı motoru çalıştırmayacak şekilde açıldığında, gösterge panelinde bulunan şekildeki akü şarj ikaz ışığının yanması gerekir.\n
+Yanmıyorsa, arıza aşağıdakilerden hangisinde olabilir?\n</string>
+    <string name="aralik2016_38_a">Marş motorunda\n</string>
+    <string name="aralik2016_38_b">Soğutma fanında\n</string>
+    <string name="aralik2016_38_c">Motor devir göstergesinde\n</string>
+    <string name="aralik2016_38_d">Akü şarj ikaz ışığının ampülünde\n</string>
+    //              39
+    <string name="aralik2016_39">39. Aşağıdakilerden hangisi, motorun soğutma sisteminde donmayı önlemenin yanı sıra soğutma sıvısının geçtiği yerlerde korozyonu, paslanmayı ve kireç oluşumunu da engelleyerek parçaların ömrünü artırır?\n</string>
+    <string name="aralik2016_39_a">Yağ\n</string>
+    <string name="aralik2016_39_b">Asit\n</string>
+    <string name="aralik2016_39_c">Saf su\n</string>
+    <string name="aralik2016_39_d">Antifriz\n</string>
+    //              40
+    <string name="aralik2016_40">40. Fren pedalına basıldığında fren lambaları yanmıyorsa sebebi aşağıdakilerden hangisidir?\n</string>
+    <string name="aralik2016_40_a">Flaşör arızalıdır.\n</string>
+    <string name="aralik2016_40_b">Distribütör arızalıdır.\n</string>
+    <string name="aralik2016_40_c">Fren müşiri arızalıdır.\n</string>
+    <string name="aralik2016_40_d">Geri vites müşiri arızalıdır.\n</string>
+    //              41
+    <string name="aralik2016_41">41. Araçta, kullanım ömrünü tamamlamış lastiklerin kullanılması aşağıdakilerden hangisini artırır? \n</string>
+    <string name="aralik2016_41_a">Sürüş konforunu\n</string>
+    <string name="aralik2016_41_b">Trafik kazası riskini\n</string>
+    <string name="aralik2016_41_c">Direksiyon hâkimiyetini\n</string>
+    <string name="aralik2016_41_d">Aracın yol üzerinde tutunmasını\n</string>
+    //              42
+    <string name="aralik2016_42">42. Aşağıdakilerden hangisinin, normalin çok altında eksilmesi veya özelliğini kaybetmesi durumunda motor aşırı ısınarak zarar görür?\n</string>
+    <string name="aralik2016_42_a">Antifriz\n</string>
+    <string name="aralik2016_42_b">Fren hidroliği\n</string>
+    <string name="aralik2016_42_c">Motor yağı\n</string>
+    <string name="aralik2016_42_d">Akü elektroliti\n</string>
+    //              43
+    <string name="aralik2016_43">43. Süspansiyon sisteminde bulunan ve yay salınım süresini kısaltan, şekilde soru işareti (?) ile gösterilmiş parça aşağıdakilerden hangisidir?\n</string>
+    <string name="aralik2016_43_a">Şaft\n</string>
+    <string name="aralik2016_43_b">Volan\n</string>
+    <string name="aralik2016_43_c">Kavrama\n</string>
+    <string name="aralik2016_43_d">Amortisör\n</string>
+    //              44
+    <string name="aralik2016_44">44. Aşağıdakilerden hangisi motorda yapılan ve yakıt tasarrufuna etki eden ayarlardan biri değildir?\n</string>
+    <string name="aralik2016_44_a">Far ayarı\n</string>
+    <string name="aralik2016_44_b">Buji ayarı\n</string>
+    <string name="aralik2016_44_c">Avans ayarı\n</string>
+    <string name="aralik2016_44_d">Rölanti ayarı\n</string>
+    //              45
+    <string name="aralik2016_45">45. Trafik içinde sorumluluk, yardımlaşma, tahammül, saygı, fedakârlık, sabır vb. değerlere sahip olabilme yetisidir.n\
+Bu cümlede tanımı yapılan kavram, aşağıdakilerden hangisidir?\n</string>
+    <string name="aralik2016_45_a">Mizaç\n</string>
+    <string name="aralik2016_45_b">Beden dili\n</string>
+    <string name="aralik2016_45_c">Trafik adabı\n</string>
+    <string name="aralik2016_45_d">Konuşma üslubu\n</string>
+    //              46
+    <string name="aralik2016_46">46. Ailesi ile birlikte yolculuk yapan bir sürücü,
+aracını hız limitlerini aşarak sürdüğünde ailesinin hayatını da tehlikeye atmış olacaktır.\n
+Bu sürücü, hız ihlalinden kaynaklanan olası bir kazada sevdiklerinin canını riske atmakla trafikte hangi temel değeri yerine getirmemiş olur?
+\n</string>
+    <string name="aralik2016_46_a">Hırçınlık\n</string>
+    <string name="aralik2016_46_b">Sorumluluk\n</string>
+    <string name="aralik2016_46_c">Bencillik\n</string>
+    <string name="aralik2016_46_d">Hoşnutsuzluk\n</string>
+    //              47
+    <string name="aralik2016_47">47. Bir sürücünün trafik içindeki istenmeyen durumlara öfkelenmesi ve bu öfkeyi belli etmesi yerine, hangi davranışı göstermesi hâlinde çok daha huzurlu bir trafik ortamı oluşur?\n</string>
+    <string name="aralik2016_47_a">Hoşgörülü olması\n</string>
+    <string name="aralik2016_47_b">Bencil davranması\n</string>
+    <string name="aralik2016_47_c">Aşırı stres yapması\n</string>
+    <string name="aralik2016_47_d">Sürekli kornaya basması\n</string>
+    //              48
+    <string name="aralik2016_48">48. Ters yönden gelen bir sürücüye “Bu sokak tek yönlü, herhalde siz girişteki levhayı görmediniz, lütfen daha dikkatli olun.” diyen bir sürücü, trafikteki temel değerlerden hangisine uygun davranmıştır?\n</string>
+    <string name="aralik2016_48_a">İnatlaşmaya\n</string>
+    <string name="aralik2016_48_b">Aşırı tepki göstermeye\n\n</string>
+    <string name="aralik2016_48_c">Kaba ve saldırgan davranmaya\n\n</string>
+    <string name="aralik2016_48_d">Trafik kültüründe birbirini uyarmaya\n\n</string>
+    //              49
+    <string name="aralik2016_49">49. Trafikte hangi temel değere sahip olan sürücü, kendini yaya olan yol kullanıcısının yerine koyar ve aracını kaldırıma park etmekten kaçınır?\n</string>
+    <string name="aralik2016_49_a">Empati düzeyi yüksek\n</string>
+    <string name="aralik2016_49_b">Görgü seviyesi düşük\n</string>
+    <string name="aralik2016_49_c">Sorumsuz\n</string>
+    <string name="aralik2016_49_d">Bencil\n</string>
+    //              50
+    <string name="aralik2016_50">50. Trafik denetim görevlileriyle iletişim
+kuran sürücünün, trafik adabı açısından özen göstermesi gereken davranış şekli aşağıdakilerden hangisidir?
+\n</string>
+    <string name="aralik2016_50_a">Karşısındaki kişiyi suçlaması\n</string>
+    <string name="aralik2016_50_b">Empati kurmaktan kaçınması\n</string>
+    <string name="aralik2016_50_c">Karşısındaki kişiye saygı duyması\n</string>
+    <string name="aralik2016_50_d">Karşısındaki kişiyi dinlemekten kaçınması\n</string>
+
+
+</resources>

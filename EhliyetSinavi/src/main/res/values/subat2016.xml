@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //              1
+    <string name="subat2016_1">1. Ülkemizde 112 acil telefon hattı, öncelikle
+hangi hizmet için kullanılmaktadır?\n</string>
+    <string name="subat2016_1_a">İtfaiye\n</string>
+    <string name="subat2016_1_b">Ambulans\n</string>
+    <string name="subat2016_1_c">Polis imdat\n</string>
+    <string name="subat2016_1_d">Jandarma imdat\n</string>
+    //              2
+    <string name="subat2016_2">2. Aşağıdakilerden hangisi, kazazedenin ikinci değerlendirilme aşamalarından olan "Baştan Aşağı Kontrol" basamağında yer alır?\n</string>
+    <string name="subat2016_2_a">Adı ve soyadının öğrenilmesi\n</string>
+    <string name="subat2016_2_b">Kullandığı ilaçların belirlenmesi\n</string>
+    <string name="subat2016_2_c">Kişisel özgeçmişinin öğrenilmesi\n</string>
+    <string name="subat2016_2_d">Solunum sayısının değerlendirilmesi\n</string>
+    //              3
+    <string name="subat2016_3">3. Aşağıdakilerden hangisi, kaza sonrası güvenli bir ortamın oluşturulması için yapılması gereken uygulamalardandır?\n</string>
+    <string name="subat2016_3_a">Yardımı güçleştirecek meraklı kişilerin olay yerinden uzaklaştırılması\n</string>
+    <string name="subat2016_3_b">Olay yerinin diğer araç sürücüleri tarafından görünmesinin engellenmesi\n</string>
+    <string name="subat2016_3_c">Araç LPG´li ise bagajında bulunan tüpün vanasının kapatılmaması\n</string>
+    <string name="subat2016_3_d">Kazaya uğrayan aracın kontağının açık bırakılması\n</string>
+    //              4
+    <string name="subat2016_4">4. Resimde görülen manevra, hangi amaçla uygulanır?\n</string>
+    <string name="subat2016_4_a">Kanamanın durdurulması için\n</string>
+    <string name="subat2016_4_b">Dolaşımın değerlendirilmesi için\n</string>
+    <string name="subat2016_4_c">Kemik kırıklarının tespit edilmesi için\n</string>
+    <string name="subat2016_4_d">Yabancı cisim tıkanmalarında solunum yolunu açmak için\n</string>
+    //              5
+    <string name="subat2016_5">5. Yetişkinlere ve bebeklere yapılan temel yaşam desteği uygulamasında, göğüs kemiği kaç cm aşağı inecek şekilde kalp basısı uygulanır?\n
+    \n  \t\t\tYetişkin	 \t\t       Bebek\n</string>
+    <string name="subat2016_5_a">2	  \t\t      1\n</string>
+    <string name="subat2016_5_b">3	  \t\t     2\n</string>
+    <string name="subat2016_5_c">5	  \t \t    4\n</string>
+    <string name="subat2016_5_d">7	   \t\t   6\n</string>
+    //              6
+    <string name="subat2016_6">6. İlk yardımcı olarak bulunduğunuz bir kaza yerinde, kazazedelerden birinin öksürme ile ağzından açık kırmızı renkte, köpüklü kan geldiğini gözlemlediniz.\n
+Bu durumda, aşağıdaki organlardan hangisinin yaralandığını düşünürsünüz?\n</string>
+    <string name="subat2016_6_a">Böbrek	\n</string>
+    <string name="subat2016_6_b">Akciğer\n</string>
+    <string name="subat2016_6_c">Bağırsak	\n</string>
+    <string name="subat2016_6_d">Karaciğer\n</string>
+    //              7
+    <string name="subat2016_7">7. Kalp-damar sisteminin yaşamsal organlara uygun oranda kanlanma yapamaması nedeniyle ortaya çıkan, tansiyon düşüklüğü ile seyreden ve ani gelişen dolaşım yetmezliğine ........denir.\n
+Bu ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?\n</string>
+    <string name="subat2016_7_a">şok	\n</string>
+    <string name="subat2016_7_b">havale\n</string>
+    <string name="subat2016_7_c">epilepsi	\n</string>
+    <string name="subat2016_7_d">bayılma\n</string>
+    //              8
+    <string name="subat2016_8">8. Baş yaralanması sebebiyle bayılan ve daha sonra kendine gelen yaralıya, aşağıdakilerden hangisi uygulanır?\n</string>
+    <string name="subat2016_8_a">Başı sıcak su ile yıkanır.\n</string>
+    <string name="subat2016_8_b">Bulantı önleyici ve ağrı kesici ilaç verilir.\n</string>
+    <string name="subat2016_8_c">Normal faaliyetini sürdürmesine izin verilir.\n</string>
+    <string name="subat2016_8_d">En az 12-24 saat süre ile hekim kontrolünde tutulur.\n</string>
+    //              9
+    <string name="subat2016_9">9. Bilinç kaybının en ileri durumu, koma hâli olarak bilinir.\n
+Buna göre, aşağıdakilerden hangisi koma hâli belirtilerindendir?
+\n</string>
+    <string name="subat2016_9_a">Öksürmek\n</string>
+    <string name="subat2016_9_b">Yutkunmak\n</string>
+    <string name="subat2016_9_c">İdrar kaçırmak\n</string>
+    <string name="subat2016_9_d">Sesli dürtülere tepki vermek\n</string>
+    //              10
+    <string name="subat2016_10">10. Delici göğüs yaralanmalarında kazazedeye, aşağıdaki pozisyonlardan hangisi verilir?\n</string>
+    <string name="subat2016_10_a">\n</string>
+    <string name="subat2016_10_b">\n</string>
+    <string name="subat2016_10_c">\n</string>
+    <string name="subat2016_10_d">\n</string>
+    //              11
+    <string name="subat2016_11">11. I. Damar ve sinir sıkışmasına\n
+II.	Çıkığın sık sık tekrar etmesine\n
+III. Eklem bağlarının düzelmeyecek ölçüde tahrip olmasına\n
+Çıkmış kemiğin uzman olmayan kişilerce eklem boşluğuna konulmaya çalışılması, yukarıda verilenlerden hangilerine neden olabilir?\n</string>
+    <string name="subat2016_11_a">Yalnız I\n</string>
+    <string name="subat2016_11_b">I ve II\n</string>
+    <string name="subat2016_11_c">II ve III\n</string>
+    <string name="subat2016_11_d">I, II ve III\n</string>
+    //              12
+    <string name="subat2016_12">12. Sürükleme yöntemleri;\n
+I. Çok kilolu ve iri yarı kişilerin taşınmasında,\n
+II. Kazazedelerin dar, basık ve geçiş güçlüğü olan bir yerden çıkarılmasında kullanılır.\n
+Verilenler için aşağıdakilerden hangisi söylenebilir?\n</string>
+    <string name="subat2016_12_a">I. doğru, II. yanlış\n</string>
+    <string name="subat2016_12_b">I. yanlış, II. doğru\n</string>
+    <string name="subat2016_12_c">Her ikisi de doğru\n</string>
+    <string name="subat2016_12_d">Her ikisi de yanlış\n</string>
+    //              13
+    <string name="subat2016_13">13. Şekildeki kara yoluna ne ad verilir?\n</string>
+    <string name="subat2016_13_a">Tali yol\n</string>
+    <string name="subat2016_13_b">Geçiş yolu\n</string>
+    <string name="subat2016_13_c">Bağlantı yolu\n</string>
+    <string name="subat2016_13_d">Bölünmüş yol\n</string>
+    //              14
+    <string name="subat2016_14">14. Sürücüsü dahil oturma yeri on yediyi aşmayan otobüslere ne ad verilir?\n</string>
+    <string name="subat2016_14_a">Minibüs	\n</string>
+    <string name="subat2016_14_b">Tramvay\n</string>
+    <string name="subat2016_14_c">Kamyonet	\n</string>
+    <string name="subat2016_14_d">Arazi taşıtı\n</string>
+    //              15
+    <string name="subat2016_15">15. Trafik görevlisinin hangi hareketi geceleyin "dönüş" işaretidir?\n</string>
+    <string name="subat2016_15_a">\n</string>
+    <string name="subat2016_15_b">\n</string>
+    <string name="subat2016_15_c">\n</string>
+    <string name="subat2016_15_d">\n</string>
+    //              16
+    <string name="subat2016_16">16. Işıklı trafik işaret cihazında kırmızı ile birlikte sarı ışığın yanması, beklemekte olan sürücüye neyi bildirir?\n</string>
+    <string name="subat2016_16_a">Geri dönmesini\n</string>
+    <string name="subat2016_16_b">Motoru durdurmasını\n</string>
+    <string name="subat2016_16_c">Harekete hazırlanmasını\n</string>
+    <string name="subat2016_16_d">Biraz sonra kırmızı ışığın yanacağını\n</string>
+    //              17
+    <string name="subat2016_17">17. Taşıt yolu üzerine çizilen şekildeki yatay işaretleme, sürücülere aşağıdakilerden hangisini bildirir?\n</string>
+    <string name="subat2016_17_a">Kavşağa 50 m kaldığını\n</string>
+    <string name="subat2016_17_b">Asgari (en az) hız sınırını\n</string>
+    <string name="subat2016_17_c">Azami (en yüksek) hız sınırını\n</string>
+    <string name="subat2016_17_d">Öndeki araca 50 m´den fazla yaklaşılmamasını\n</string>
+    //              18
+    <string name="subat2016_18">18. Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?\n</string>
+    <string name="subat2016_18_a">Kasisli yola girileceğini\n</string>
+    <string name="subat2016_18_b">Yolda çalışma olduğunu\n</string>
+    <string name="subat2016_18_c">Yolun trafiğe kapalı olduğunu\n</string>
+    <string name="subat2016_18_d">Motorlu taşıtların giremeyeceğini\n</string>
+    //              19
+    <string name="subat2016_19">19. Kara yolunun sağ ve soluna konan şekildeki trafik işaretleri, sürücülere aşağıdakilerden hangisine yaklaşıldığını bildirir?\n</string>
+    <string name="subat2016_19_a">Kavşağa\n</string>
+    <string name="subat2016_19_b">Köprüye\n</string>
+    <string name="subat2016_19_c">Tali yola	\n</string>
+    <string name="subat2016_19_d">Demir yoluna\n</string>
+    //              20
+    <string name="subat2016_20">20. Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?\n</string>
+    <string name="subat2016_20_a">Mopet yolunu\n</string>
+    <string name="subat2016_20_b">Bisiklet yolunu\n</string>
+    <string name="subat2016_20_c">Mopetin giremeyeceğini\n</string>
+    <string name="subat2016_20_d">Motosikletin giremeyeceğini\n</string>
+    //              21
+    <string name="subat2016_21">21. Aralıklı yanıp sönen sarı ışık aşağıdakilerden hangisiyle aynı anlamı taşır?\n</string>
+    <string name="subat2016_21_a">\n</string>
+    <string name="subat2016_21_b">\n</string>
+    <string name="subat2016_21_c">\n</string>
+    <string name="subat2016_21_d">\n</string>
+    //              22
+    <string name="subat2016_22">22. Aşağıdakilerden hangisinin tek yönlü yollarda yapılması yasaktır?\n</string>
+    <string name="subat2016_22_a">Yol eğimliyse çıkışta kullanılan vitesle inilmesi\n</string>
+    <string name="subat2016_22_b">Park manevrası yaparken geri gidilmesi\n</string>
+    <string name="subat2016_22_c">Hız azaltmak için frene basılması\n</string>
+    <string name="subat2016_22_d">Ters yönden yola girilmesi\n</string>
+    //              23
+    <string name="subat2016_23">23. Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?\n</string>
+    <string name="subat2016_23_a">50\n</string>
+    <string name="subat2016_23_b">70\n</string>
+    <string name="subat2016_23_c">80\n</string>
+    <string name="subat2016_23_d">90\n</string>
+    //              24
+    <string name="subat2016_24">24. Görüş yetersizliği olan tepe üstü ve dönemeçlerde, aşağıdakilerden hangisinin yapılması yasaktır?\n</string>
+    <string name="subat2016_24_a">Hızın azaltılması\n</string>
+    <string name="subat2016_24_b">Öndeki aracın geçilmesi\n</string>
+    <string name="subat2016_24_c">Takip mesafesi kuralına uyulması\n</string>
+    <string name="subat2016_24_d">Bulunduğu şeridin sağına yaklaşılması\n</string>
+    //              25
+    <string name="subat2016_25">25. Şekildeki 1 numaralı aracın saatteki hızı 70 kilometredir.\n
+    Takip mesafesi, saatteki hızın en az yarısı kadar metre olduğuna göre; 1 numaralı araç ile önündeki araç arasında en az kaç metre olmalıdır?\n</string>
+    <string name="subat2016_25_a">35\n</string>
+    <string name="subat2016_25_b">50\n</string>
+    <string name="subat2016_25_c">70\n</string>
+    <string name="subat2016_25_d">140\n</string>
+    //              26
+    <string name="subat2016_26">26. Şekildeki gibi sola dönüş yapacak olan sürücü, aşağıdakilerden hangilerini yapmalıdır?\n
+I.	Sola dönüş lambasını yakmalı\n
+II.	Hızını azaltmalı\n
+III.	Dar bir kavisle dönmeli\n</string>
+    <string name="subat2016_26_a">Yalnız I\n</string>
+    <string name="subat2016_26_b">I ve II\n</string>
+    <string name="subat2016_26_c">II ve III\n</string>
+    <string name="subat2016_26_d">I, II ve III\n</string>
+    //              27
+    <string name="subat2016_27">27. Şekildeki kontrolsüz kavşakta ilk geçiş hakkını hangi araç kullanmalıdır?\n</string>
+    <string name="subat2016_27_a">Otomobil\n</string>
+    <string name="subat2016_27_b">Kamyonet\n</string>
+    <string name="subat2016_27_c">Motosiklet\n</string>
+    <string name="subat2016_27_d">At arabası\n</string>
+    //              28
+    <string name="subat2016_28">28. "Kırmızı ışıklı trafik işaretinde veya yetkili memurun dur işaretinde geçme" trafik kazalarında ........ sayılan hâllerdendir.\n
+Verilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?\n</string>
+    <string name="subat2016_28_a">asli kusur\n</string>
+    <string name="subat2016_28_b">tali kusur\n</string>
+    <string name="subat2016_28_c">yol kusuru\n</string>
+    <string name="subat2016_28_d">kusuru paylaştırma\n</string>
+    //              29
+    <string name="subat2016_29">29. Kara yollarında seyreden araçların yüklenmesine ilişkin usullere göre, aşağıdakilerden hangisinin yapılması yasaktır?\n</string>
+    <string name="subat2016_29_a">Araç dengesinin korunması\n</string>
+    <string name="subat2016_29_b">Trafik güvenliğinin dikkate alınması\n</string>
+    <string name="subat2016_29_c">Taşıma sınırına ve dingil ağırlığına uyulması\n</string>
+    <string name="subat2016_29_d">Taşınan yük üzerine veya araç dışına yolcu bindirilmesi\n</string>
+    //              30
+    <string name="subat2016_30">30. Motorlu bisiklet, motosiklet ve sürücüleriyle ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?\n</string>
+    <string name="subat2016_30_a">Sürücü arkasında yeterli oturma yeri olsa bile bir kişiden fazlasının taşınması\n</string>
+    <string name="subat2016_30_b">Gidiş yönüne göre yolun en sağından seyredilmesi\n</string>
+    <string name="subat2016_30_c">Tehlikeli madde taşıyan araçların geçilmesi\n</string>
+    <string name="subat2016_30_d">Geçme yaparken sinyal verilmesi\n</string>
+    //              31
+    <string name="subat2016_31">31. Araç sahiplerinin aşağıdakilerden hangisini yaptırması zorunludur?\n</string>
+    <string name="subat2016_31_a">Kasko sigortası\n</string>
+    <string name="subat2016_31_b">Zorunlu mali sorumluluk sigortası\n</string>
+    <string name="subat2016_31_c">Zorunlu deprem sigortası\n</string>
+    <string name="subat2016_31_d">Hırsızlık sigortası\n</string>
+    //              32
+    <string name="subat2016_32">32. Bir araç çevreyi rahatsız edecek şekilde duman ve gürültü çıkarıyorsa aşağıdakilerden hangisi uygulanır?
+\n</string>
+    <string name="subat2016_32_a">Sürücüsüne hapis cezası verilir.\n</string>
+    <string name="subat2016_32_b">Araç sahibine sadece para cezası verilir.\n</string>
+    <string name="subat2016_32_c">İhtar edilir, tekrarı halinde araç trafikten men edilir.\n</string>
+    <string name="subat2016_32_d">Sürücüsü trafikten ömür boyu men edilir.\n</string>
+    //              33
+    <string name="subat2016_33">33. I.  Sürülen taşıtın cinsine uygun olması\n
+II.	Yetkililerin istemesi hâlinde gösterilmesi\n
+III.	Taşıt sürerken sürücünün yanında bulundurması\n
+Motorlu taşıt sürücü belgesiyle ilgili olarak yukarıda verilenlerden hangileri zorunludur?\n</string>
+    <string name="subat2016_33_a">Yalnız I \n</string>
+    <string name="subat2016_33_b">I ve II\n</string>
+    <string name="subat2016_33_c">II ve III\n</string>
+    <string name="subat2016_33_d">I, II ve III\n</string>
+    //              34
+    <string name="subat2016_34">34. Frene basıldığı andan itibaren, aracın durmasına kadar geçen sürede kat edilen yola "fren mesafesi" denir.\n
+Buna göre, aşağıdakilerden hangisi fren mesafesini etkileyen faktörlerden biri değildir?\n</string>
+    <string name="subat2016_34_a">Aracın hızı\n</string>
+    <string name="subat2016_34_b">Yolun eğimi\n</string>
+    <string name="subat2016_34_c">Lastiklerin durumu\n</string>
+    <string name="subat2016_34_d">Yolun genişliği\n</string>
+    //              35
+    <string name="subat2016_35">35. Haritalarda gösterilen şekildeki işaret, aşağıdakilerden hangisine verilen yol numarasıdır?\n</string>
+    <string name="subat2016_35_a">Otoyol \n</string>
+    <string name="subat2016_35_b">Demir yolu\n</string>
+    <string name="subat2016_35_c">evlet yolu\n</string>
+    <string name="subat2016_35_d">Uluslararası yol\n</string>
+    //              36
+    <string name="subat2016_36">36. Aşağıdakilerden hangisi, motordaki basınçlı yanmış gazların çıkarken oluşturacağı sesi azaltır?\n</string>
+    <string name="subat2016_36_a">Emme susturucusu\n</string>
+    <string name="subat2016_36_b">Egzoz susturucusu\n</string>
+    <string name="subat2016_36_c">Emme manifoldu\n</string>
+    <string name="subat2016_36_d">Egzoz supabı\n</string>
+    //              37
+    <string name="subat2016_37">37. Motoru çalıştırmak için uzun süre ve sıkça marş yapılması aşağıdakilerden hangisinin ömrünü kısaltır?
+\n</string>
+    <string name="subat2016_37_a">Fren pedalının\n</string>
+    <string name="subat2016_37_b">Far ampulünün\n</string>
+    <string name="subat2016_37_c">Marş motorunun\n</string>
+    <string name="subat2016_37_d">Silecek motorunun\n</string>
+    //              38
+    <string name="subat2016_38">38. Aracın gösterge panelinde şekildeki uyarı lambasının yanıyor olması neyi bildirir?\n</string>
+    <string name="subat2016_38_a">Elektrik devresinde aşırı şarj veya düşük şarj olduğunu\n</string>
+    <string name="subat2016_38_b">Arka cam rezistansının çalışmakta olduğunu\n</string>
+    <string name="subat2016_38_c">Soğutma sıvısı sıcaklığının çok yükseldiğini\n</string>
+    <string name="subat2016_38_d">Motor kaputunun tam kapanmadığını\n</string>
+    //              39
+    <string name="subat2016_39">39. Motorda çalışan parçaların temizliğini hangi sistem sağlar?\n</string>
+    <string name="subat2016_39_a">Yağlama sistemi\n</string>
+    <string name="subat2016_39_b">Şarj sistemi\n</string>
+    <string name="subat2016_39_c">Ateşleme sistemi	\n</string>
+    <string name="subat2016_39_d">Soğutma sistemi\n</string>
+    //              40
+    <string name="subat2016_40">40. Radyatör hortumlarında çatlaklar varsa ne yapılır?\n</string>
+    <string name="subat2016_40_a">Bantlanır.\n</string>
+    <string name="subat2016_40_b">Yapıştırılır.\n</string>
+    <string name="subat2016_40_c">Değiştirilir.\n</string>
+    <string name="subat2016_40_d">İple sarılır.\n</string>
+    //              41
+    <string name="subat2016_41">41. Araçta elektrik devresini yüksek akıma karşı koruyan devre elemanı hangisidir?\n</string>
+    <string name="subat2016_41_a">Buji\n</string>
+    <string name="subat2016_41_b">Soket\n</string>
+    <string name="subat2016_41_c">Ampul\n</string>
+    <string name="subat2016_41_d">Sigorta\n</string>
+    //              42
+    <string name="subat2016_42">42. Motor soğutma suyuna kışın donmaması için aşağıdakilerden hangisi yeterli miktarda karıştırılır?\n</string>
+    <string name="subat2016_42_a">Saf su \n</string>
+    <string name="subat2016_42_b">Antifriz\n</string>
+    <string name="subat2016_42_c">Motor yağı\n</string>
+    <string name="subat2016_42_d">Fren hidroliği\n</string>
+    //              43
+    <string name="subat2016_43">43. Aracın gösterge panelinde bulunan şekildeki ikaz ışığı, aşağıdakilerden hangisidir?\n</string>
+    <string name="subat2016_43_a">Motor yağ basıncı ikaz ışığı\n</string>
+    <string name="subat2016_43_b">Egzoz gazları kontrol ikaz ışığı\n</string>
+    <string name="subat2016_43_c">Fren balataları aşınmış ikaz ışığı\n</string>
+    <string name="subat2016_43_d">Emniyet kemeri takılı değil ikaz ışığı\n</string>
+    //              44
+    <string name="subat2016_44">44. Aşağıdakilerden hangisinin yapılması araçta yakıt tasarrufu sağlar?\n</string>
+    <string name="subat2016_44_a">Araç üstü tavan bagajı kullanılması\n</string>
+    <string name="subat2016_44_b">Tam gazdan ve ani hızlanmalardan kaçınılması\n</string>
+    <string name="subat2016_44_c">Araçta yapılması gerekli bakım ve ayarların ihmal edilmesi\n</string>
+    <string name="subat2016_44_d">Tavsiye edilmeyen tip ve ebatlarda araç lastiği kullanılması\n</string>
+    //              45
+    <string name="subat2016_45">45. Denetim ve ceza korkusu olmadan yazılı kurallara uymanın yanı sıra yazılı olmayan, trafik içerisinde karşılıklı anlayış ve empati gerektiren davranışları oluşturma ve bu davranışları alışkanlık haline getirmedir.n
+Bu cümlede tanımı yapılan kavram, aşağıdakilerden hangisidir?\n</string>
+    <string name="subat2016_45_a">Mizaç\n</string>
+    <string name="subat2016_45_b">Beden dili\n</string>
+    <string name="subat2016_45_c">Trafik adabı\n</string>
+    <string name="subat2016_45_d">Konuşma üslubu\n</string>
+    //              46
+    <string name="subat2016_46">46. Sürücünün trafik ortamında yaptığı hangi davranış, diğer sürücülerin dikkatinin dağılmasına ya da paniğe kapılmalarına sebep olabilir?\n</string>
+    <string name="subat2016_46_a">Davranışlarının sonuçlarını düşünerek hareket etmesi\n</string>
+    <string name="subat2016_46_b">Aracını kullanırken trafik kurallarının bilincinde olması\n</string>
+    <string name="subat2016_46_c">Başkalarının canına ya da malına zarar verme sorumluluğunu üstlenerek araç kullanması\n</string>
+    <string name="subat2016_46_d">Sürekli şerit değiştirerek (slalom yaparak) araç kullanması\n</string>
+    //              47
+    <string name="subat2016_47">47. Kentlerimizin en büyük sorunlarından biri olan trafik sıkışıklığında trafiği açmayacağını bile bile sürekli korna çalarak, çevrede bulunanların gürültü kirliliğine maruz bırakılması hâli, trafikte hangi temel değere sahip olunmadığını gösterir?\n</string>
+    <string name="subat2016_47_a">Öfke\n</string>
+    <string name="subat2016_47_b">Sabır\n</string>
+    <string name="subat2016_47_c">İnatlaşma\n</string>
+    <string name="subat2016_47_d">Aşırı tepki\n</string>
+    //              48
+    <string name="subat2016_48">48. 48.	Sürücünün aracını hareket ettirmesiyle birlikte trafikteki diğer yol kullanıcıları ile iletişimi başlar ve aracını park edinceye kadar da bu iletişim sürer.\n
+Buna göre, aşağıdakilerden hangisi trafikte olumlu yönde iletişim kurma becerisine örnektir?
+\n</string>
+    <string name="subat2016_48_a">A)	Korkutmak veya şaşırtmak\n</string>
+    <string name="subat2016_48_b">Su, çamur ve benzerlerini sıçratmak\n</string>
+    <string name="subat2016_48_c">Sola ya da sağa dönüş yapmadan önce sinyal vermek\n</string>
+    <string name="subat2016_48_d">Sigara külü ve izmaritlerini veya başka şeyleri yola atıp dökmek\n</string>
+    //              49
+    <string name="subat2016_49">49. I. Dikkatin dağılması\n
+II.	Kural ihlallerinin artması\n
+III. Sabırsızlık ve tahammülsüzlüğün azalması\n
+Verilenlerden hangilerinin, trafikte öfke duygusuna kapılan sürücülerde görülme olasılığı diğer sürücülere göre daha fazladır?\n</string>
+    <string name="subat2016_49_a">Yalnız I\n</string>
+    <string name="subat2016_49_b">I ve II\n</string>
+    <string name="subat2016_49_c">II ve III\n</string>
+    <string name="subat2016_49_d">I, II ve III\n</string>
+    //              50
+    <string name="subat2016_50">50. • Kaza sonrası meydana gelen maddi hasar miktarı\n
+• İş gücü kaybının yanı sıra yaralıların tedavi süreçleri ve maliyeti\n
+Trafik kazalarıyla ilgili olarak verilenler, aşağıdakilerden hangisini olumsuz yönde etkiler?\n</string>
+    <string name="subat2016_50_a">Ülke ekonomisini\n</string>
+    <string name="subat2016_50_b">Kasko sigortasının önemini\n</string>
+    <string name="subat2016_50_c">Bireylerde trafik bilincinin oluşmasını\n</string>
+    <string name="subat2016_50_d">Taşıt güvenlik donanımlarının gelişimini\n</string>
+</resources>

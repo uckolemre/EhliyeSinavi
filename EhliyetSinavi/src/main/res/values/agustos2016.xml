@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //              1
+    <string name="agustos2016_1">1.	Hayatın kurtarılması amacıyla olay yerindeki kazazedeye, tıbbi araç gereç aranmaksızın mevcut araç gereçlerle ilaçsız uygulamaları yapan eğitim almış kişiye ne ad verilir?\n</string>
+    <string name="agustos2016_1_a">Sürücü\n</string>
+    <string name="agustos2016_1_b">Girişimci\n</string>
+    <string name="agustos2016_1_c">Trafik polisi\n</string>
+    <string name="agustos2016_1_d">İlk yardımcı\n</string>
+    //              2
+    <string name="agustos2016_2">2.	Akciğerler vücudumuzdaki hangi sistemde yer alır?\n</string>
+    <string name="agustos2016_2_a">Sinir  sistemi\n</string>
+    <string name="agustos2016_2_b">Hareket  sistemi\n</string>
+    <string name="agustos2016_2_c">Solunum  sistemi\n</string>
+    <string name="agustos2016_2_d">Boşaltım sistemi\n</string>
+    //              3
+    <string name="agustos2016_3">
+        3. İlk yardımcı, başını kazazedenin göğsüne bakacak şekilde yan çevirerek yüzünü kazazedenin ağzına yaklaştırır, ........... ile solunum yapıp yapmadığını 10 saniye süreyle değerlendirir.
+Bu ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?
+    \n</string>
+    <string name="agustos2016_3_a">Bak-dinle-hisset yöntemi\n</string>
+    <string name="agustos2016_3_b">Heimlich manevrası\n</string>
+    <string name="agustos2016_3_c">Turnike uygulaması\n</string>
+    <string name="agustos2016_3_d">Şok pozisyonu\n</string>
+    //              4
+    <string name="agustos2016_4">4. Çocuklarda yapılan temel yaşam desteği uygulamasında, göğüs kemiği kaç cm aşağı inecek şekilde kalp basısı uygulanır?\n</string>
+    <string name="agustos2016_4_a">2\n</string>
+    <string name="agustos2016_4_b">5\n</string>
+    <string name="agustos2016_4_c">8\n</string>
+    <string name="agustos2016_4_d">11\n</string>
+    //              5
+    <string name="agustos2016_5">5.	Aşağıdakilerden hangisi, tam tıkanıklık yaşayan ve karından baskı uygulanamayan çok küçük bebeklerde, hava yolunun açılması için yapılması gereken uygulamalardan biri değildir?\n</string>
+    <string name="agustos2016_5_a">5 kez el bileğinin iç kısmı ile bebeğin sırtına, kürek kemiklerinin arasına hafifçe vurulması\n</string>
+    <string name="agustos2016_5_b">Başparmak ve diğer parmakların yardımıyla bebeğin çenesinin kavranması\n</string>
+    <string name="agustos2016_5_c">Bebeğin başının gergin ve gövdesinden yukarıda olacak şekilde tutulması\n</string>
+    <string name="agustos2016_5_d">Bebeğin ilk yardımcının bir kolu üzerine ters olarak yatırılması\n</string>
+    //              6
+    <string name="agustos2016_6">6. Aşağıdakilerden hangisi, dış kanamalarda yapılacak ilk yardım uygulamalarındandır?\n</string>
+    <string name="agustos2016_6_a">Uzuv kopması durumunda turnike uygulamaktan kaçınılması\n</string>
+    <string name="agustos2016_6_b">Kanama durmazsa ikinci bir bez koyarak basıncın arttırılması\n</string>
+    <string name="agustos2016_6_c">Kanayan yere en uzak basınç noktasına baskı uygulanması\n</string>
+    <string name="agustos2016_6_d">Kanayan bölgenin kalp hizasının altına indirilmesi\n</string>
+    //              7
+    <string name="agustos2016_7">7. Aşağıdakilerden hangisi, kazazedeye şok pozisyonu verilirken izlenmesi gereken işlem basamaklarındandır?\n</string>
+    <string name="agustos2016_7_a">Bacaklarının altına çarşaf, battaniye, yastık, kıvrılmış giysi vb. destek konulması\n</string>
+    <string name="agustos2016_7_b">Yaşam bulgularından, sadece nabzının değerlendirilmesi\n</string>
+    <string name="agustos2016_7_c">Vücuduna soğuk uygulama yapılması\n</string>
+    <string name="agustos2016_7_d">Düz olarak yüzüstü yatırılması\n</string>
+    //              8
+    <string name="agustos2016_8">8.	I. Spor ve iş kazaları\n
+II.	Yüksek bir yerden düşme\n
+III. Otomobil ya da motosiklet kazaları\n
+Verilenlerden hangileri, kafatası ve omurga yaralanmalarının nedenlerindendir?
+\n</string>
+    <string name="agustos2016_8_a">Yalnız I\n</string>
+    <string name="agustos2016_8_b">I ve II\n</string>
+    <string name="agustos2016_8_c">II ve III\n</string>
+    <string name="agustos2016_8_d">I, II ve III\n</string>
+    //              9
+    <string name="agustos2016_9">9.	Aşağıdakilerden hangisi, delici karın yaralanmalarında yapılan doğru bir ilk yardım uygulamasıdır?\n</string>
+    <string name="agustos2016_9_a">Enfeksiyonu engellemek için yara bölgesinin sıcak sabunlu su ile yıkanması\n</string>
+    <string name="agustos2016_9_b">Organlar dışarı çıkmış ise içeri sokulmayıp, üzerinin temiz ve nemli bir bez ile örtülmesi\n</string>
+    <string name="agustos2016_9_c">Kazazedenin bilinci yerinde ise yüz üstü pozisyonda yatırılması\n</string>
+    <string name="agustos2016_9_d">Sıvı kaybını önlemek için ağızdan ılık içecekler verilmesi\n</string>
+    //              10
+    <string name="agustos2016_10">10. Aşağıdakilerden hangisi burkulmanın tanımıdır?\n</string>
+    <string name="agustos2016_10_a">Eklem çevresinin şişmesi\n</string>
+    <string name="agustos2016_10_b">Eklemlerde görülen şekil bozukluğu\n</string>
+    <string name="agustos2016_10_c">Eklem yüzeylerinin anlık olarak ayrılması\n</string>
+    <string name="agustos2016_10_d">Eklem yüzeylerinin kalıcı olarak ayrılması\n</string>
+    //              11
+    <string name="agustos2016_11">11.• Kısa süreli, yüzeysel ve geçicidir.\n
+• Beyne giden kan akışının azalması sonucu oluşur.\n
+Yukarıda özellikleri verilen bilinç kaybı hâli hangisidir?
+\n</string>
+    <string name="agustos2016_11_a">Bayılma\n</string>
+    <string name="agustos2016_11_b">Şok\n</string>
+    <string name="agustos2016_11_c">Kansızlık\n</string>
+    <string name="agustos2016_11_d">Koma\n</string>
+    //              12
+    <string name="agustos2016_12">12."Kazazedenin genellikle enkaz altından ve tünel gibi dar alanlardan çıkarılmasında kullanılır. Ayrıca ilk yardımcı, fiziksel güç kapasitesini de değerlendirmeli, iri ve kilolu kazazedeleri bu teknikle taşımalıdır."\n
+Yukarıdaki açıklama, acil taşıma tekniklerinden hangisine aittir?
+\n</string>
+    <string name="agustos2016_12_a">İtfaiyeci yöntemi\n</string>
+    <string name="agustos2016_12_b">Rentek manevrası\n</string>
+    <string name="agustos2016_12_c">Heimlich manevrası\n</string>
+    <string name="agustos2016_12_d">Sürükleme yöntemi\n</string>
+    //              13
+    <string name="agustos2016_13">13. Aşağıdakilerden hangisi kişiye bağlı gelişen trafik kazası nedenlerindendir?\n</string>
+    <string name="agustos2016_13_a">Aracın kullanıldığı yolun bozuk olması\n</string>
+    <string name="agustos2016_13_b">Yorgun ve uykusuz olarak araç kullanılması\n</string>
+    <string name="agustos2016_13_c">Uyarı işaretlerinin yetersiz olması\n</string>
+    <string name="agustos2016_13_d">Aracın arıza yapması\n</string>
+    //              14
+    <string name="agustos2016_14">14. Bir kavşak yakınında kara yolu taşıt yollarının birbirine bağlanmasını sağlayan,
+kavşak alanı dışında kalan ve bir yönlü trafiğe ayrılmış olan kara yolu kısmına ne ad verilir?
+\n</string>
+    <string name="agustos2016_14_a">Banket\n</string>
+    <string name="agustos2016_14_b">Ana yol\n</string>
+    <string name="agustos2016_14_c">Geçiş yolu\n</string>
+    <string name="agustos2016_14_d">Bağlantı yolu\n</string>
+    //              15
+    <string name="agustos2016_15">15. • İkaz mahiyetinde olup yanış sırasına göre yolun trafiğe kapanmak veya açılmak üzere olduğunu gösterir.\n
+• Bu ışık yandığında, emniyetle durulamayacak kadar yaklaşılmış ise normal geçiş yapılır, aksi hâlde yaya geçidi işgal edilmeden durulur.\n
+Yukarıda verilenler, ışıklı trafik işaret cihazında yanan hangi ışığın anlamını içerir?
+\n</string>
+    <string name="agustos2016_15_a">Sarı\n</string>
+    <string name="agustos2016_15_b">Yeşil\n</string>
+    <string name="agustos2016_15_c">Kırmızı\n</string>
+    <string name="agustos2016_15_d">Kırmızı oklu\n</string>
+    //              16
+    <string name="agustos2016_16">16. Trafik görevlisinin hangi hareketi sürücüler için "sağa yanaş ve dur" talimatını içerir?\n</string>
+    <string name="agustos2016_16_a">\n</string>
+    <string name="agustos2016_16_b">\n</string>
+    <string name="agustos2016_16_c">\n</string>
+    <string name="agustos2016_16_d">\n</string>
+    //              17
+    <string name="agustos2016_17">17. Şekildeki trafik işaretinin anlamı nedir?\n</string>
+    <string name="agustos2016_17_a">Gevşek şev\n</string>
+    <string name="agustos2016_17_b">Dönel kavşak\n</string>
+    <string name="agustos2016_17_c">Yandan rüzgâr\n</string>
+    <string name="agustos2016_17_d">Gizli buzlanma\n</string>
+    //              18
+    <string name="agustos2016_18">18.Şekildeki trafik işareti aşağıdakilerden hangisine yaklaşıldığını bildirir?\n</string>
+    <string name="agustos2016_18_a">Ana yol-tali yol kavşağına\n</string>
+    <string name="agustos2016_18_b">Işıklı işaret cihazına\n</string>
+    <string name="agustos2016_18_c">Açılan köprüye\n</string>
+    <string name="agustos2016_18_d">Havalimanına\n</string>
+    //              19
+    <string name="agustos2016_19">19. Aşağıdakilerden hangisi girişi olmayan yol işaret levhasıdır?\n</string>
+    <string name="agustos2016_19_a">\n</string>
+    <string name="agustos2016_19_b">\n</string>
+    <string name="agustos2016_19_c">\n</string>
+    <string name="agustos2016_19_d">\n</string>
+    //              20
+    <string name="agustos2016_20">20. Şekildeki trafik işaretinin anlamı nedir?\n</string>
+    <string name="agustos2016_20_a">Yüklü ağırlığı 6 tondan fazla olan taşıt giremez.\n</string>
+    <string name="agustos2016_20_b">Dingil başına 6 tondan fazla yük düşen taşıt giremez.\n</string>
+    <string name="agustos2016_20_c">6 tondan fazla su kirletici madde taşıyan taşıt giremez.\n</string>
+    <string name="agustos2016_20_d">6 tondan fazla patlayıcı ve parlayıcı madde taşıyan taşıt giremez.\n</string>
+    //              21
+    <string name="agustos2016_21">21. Şekildeki taşıt yolu üzerinde bulunan yazı
+neyi bildirmektedir?\n</string>
+    <string name="agustos2016_21_a">Işıklara 50 m kaldığını\n</string>
+    <string name="agustos2016_21_b">Asgari (en az) hız sınırını\n</string>
+    <string name="agustos2016_21_c">Azami (en yüksek) hız sınırını\n</string>
+    <string name="agustos2016_21_d">Öndeki araca 50 m´den fazla yaklaşılmamasını\n</string>
+    //              22
+    <string name="agustos2016_22">22. Ticari amaçla yük taşımacılığı yapan ve azami ağırlığı 3,5 tonu geçen araçların şoförleri ile ticari amaçla yolcu taşımacılığı yapan
+ve taşıma kapasitesi şoförü dahil 9 kişiyi geçen araçların şoförlerinin, 24 saatlik herhangi bir süre içinde devamlı olarak kaç saatten fazla araç sürmeleri yasaktır?
+\n</string>
+    <string name="agustos2016_22_a">1,5\n</string>
+    <string name="agustos2016_22_b">2,5\n</string>
+    <string name="agustos2016_22_c">3,5\n</string>
+    <string name="agustos2016_22_d">4,5\n</string>
+    //              23
+    <string name="agustos2016_23">23. I. Kesik yol çizgisi\n
+II.	Devamlı yol çizgisi\n
+III. Yan yana iki devamlı yol çizgisi\n
+Taşıt yolu (Kaplama) üzerine çizilen çizgilerden hangileri, kurallara uyulmak şartıyla araçlar tarafından geçilebilir?
+\n</string>
+    <string name="agustos2016_23_a">Yalnız I\n</string>
+    <string name="agustos2016_23_b">I ve II\n</string>
+    <string name="agustos2016_23_c">II ve III\n</string>
+    <string name="agustos2016_23_d">I, II ve III\n</string>
+    //              24
+    <string name="agustos2016_24">24. Trafik uygun olsa bile şekildeki kavşakta, hangi numaralı araçların ok yönündeki hareketi kesinlikle yasaktır?\n</string>
+    <string name="agustos2016_24_a">Yalnız 1\n</string>
+    <string name="agustos2016_24_b">Yalnız 2\n</string>
+    <string name="agustos2016_24_c">Yalnız 3\n</string>
+    <string name="agustos2016_24_d">1, 2 ve 3\n</string>
+
+    //              25
+    <string name="agustos2016_25">25. Aksine bir işaret bulunmadıkça yerleşim yeri içindeki kara yollarında, lastik tekerlekli traktörler için azami hız saatte kaç kilometredir?\n</string>
+    <string name="agustos2016_25_a">10\n</string>
+    <string name="agustos2016_25_b">20\n</string>
+    <string name="agustos2016_25_c">30\n</string>
+    <string name="agustos2016_25_d">40\n</string>
+    //              26
+    <string name="agustos2016_26">26. Aksine bir durum yoksa saatte 100 kilometre hızla seyreden bir sürücü, önündeki araca en fazla kaç metre yaklaşabilir?\n</string>
+    <string name="agustos2016_26_a">20\n</string>
+    <string name="agustos2016_26_b">30\n</string>
+    <string name="agustos2016_26_c">40\n</string>
+    <string name="agustos2016_26_d">50\n</string>
+    //              27
+    <string name="agustos2016_27">27. Aksine bir işaret yoksa dönüş yaparak doğrultu değiştirecek olan araç sürücülerinin aşağıdakilerden hangisini yapması zorunludur?\n</string>
+    <string name="agustos2016_27_a">Hızını artırması\n</string>
+    <string name="agustos2016_27_b">Sağa geniş, sola dar kavisle dönmesi\n</string>
+    <string name="agustos2016_27_c">Dönmeye başladıktan sonra işaret vermesi\n</string>
+    <string name="agustos2016_27_d">Dönüş sırasında varsa kurallara uygun olarak karşıya geçen yayalara geçiş hakkını vermesi\n</string>
+    //              28
+    <string name="agustos2016_28">28. Motosikletin sürülmesi sırasında aşağıdakilerden hangisinin kullanılması, olası bir kaza anında kafa yaralanmalarının sayısını ve şiddetini önemli ölçüde azaltır?\n</string>
+    <string name="agustos2016_28_a">Kask\n</string>
+    <string name="agustos2016_28_b">Eldiven\n</string>
+    <string name="agustos2016_28_c">Yansıtıcı giysi\n</string>
+    <string name="agustos2016_28_d">Dayanıklı bot\n</string>
+    //              29
+    <string name="agustos2016_29">29. Şekildeki trafik kazası, aşağıdakilerden hangisine uyulmaması sonucu meydana gelmiş olabilir?\n</string>
+    <string name="agustos2016_29_a">Takip mesafesine\n</string>
+    <string name="agustos2016_29_b">Kavşaklarda geçiş hakkına\n</string>
+    <string name="agustos2016_29_c">Öndeki aracı geçme kuralına\n</string>
+    <string name="agustos2016_29_d">Farların kullanılacağı yer ve hâllere\n</string>
+    //              30
+    <string name="agustos2016_30">30. Aşağıdakilerden hangisi geçiş üstünlüğüne sahip araçların sürülmesine ilişkin esaslardan biri değildir?\n</string>
+    <string name="agustos2016_30_a">A)	Halkın can ve mal güvenliğinin korunması\n</string>
+    <string name="agustos2016_30_b">Işıklı ve sesli uyarı işaretlerinin bir arada verilmesi\n</string>
+    <string name="agustos2016_30_c">Görev hâli dışında bazı kişilere ayrıcalık sağlanması\n</string>
+    <string name="agustos2016_30_d">Geçiş üstünlüğü hakkının görev hâlinde iken kullanılması\n</string>
+    //              31
+    <string name="agustos2016_31">31. Belirlenmiş yangın musluklarına her iki yönden kaç metre mesafe içinde park etmek yasaktır?\n</string>
+    <string name="agustos2016_31_a">5\n</string>
+    <string name="agustos2016_31_b">10\n</string>
+    <string name="agustos2016_31_c">15\n</string>
+    <string name="agustos2016_31_d">20\n</string>
+    //              32
+    <string name="agustos2016_32">32. I. Egzoz gazlarının hava kirliliğine neden olması\n
+II.	Gereksiz yere ya da gereğinden uzun kornaya basılması  \n
+III. Araçların egzoz borusu ve susturucularında orijinalliğin korunması\n
+Verilenlerden hangileri, trafiğin çevre üzerindeki olumsuz etkilerindendir?
+\n</string>
+    <string name="agustos2016_32_a">Yalnız I\n</string>
+    <string name="agustos2016_32_b">I ve II\n</string>
+    <string name="agustos2016_32_c">II ve III\n</string>
+    <string name="agustos2016_32_d">I, II ve III\n</string>
+    //              33
+    <string name="agustos2016_33">33. Motosikletlerde ilk 3 yaş sonunda kaç yılda bir muayene yaptırılması zorunludur?\n</string>
+    <string name="agustos2016_33_a">4\n</string>
+    <string name="agustos2016_33_b">3\n</string>
+    <string name="agustos2016_33_c">2\n</string>
+    <string name="agustos2016_33_d">1\n</string>
+    //              34
+    <string name="agustos2016_34">34. Aşağıdakilerden hangisi sürüş güvenliğini olumsuz yönde etkiler?\n</string>
+    <string name="agustos2016_34_a">Hızı viraja girmeden önce artırmak\n</string>
+    <string name="agustos2016_34_b">Aracı kullanırken sadece yola konsantre olmak\n</string>
+    <string name="agustos2016_34_c">Yüksek hızlarda ani manevra yapmaktan kaçınmak\n</string>
+    <string name="agustos2016_34_d">Her hızda, fren için ne kadar duruş mesafesi olduğunu hesaplamayı öğrenmek\n</string>
+    //              35
+    <string name="agustos2016_35">35. İnsanların işitme sağlığını ve algılamasını olumsuz yönde etkileyen, fizyolojik ve psikolojik dengeleri bozabilen, iş performansını azaltan, çevrenin hoşnutluğunu ve sakinliğini yok ederek niteliğini değiştiren çevre kirliliği türüne ne denir?
+\n</string>
+    <string name="agustos2016_35_a">Ses\n</string>
+    <string name="agustos2016_35_b">Duyuru\n</string>
+    <string name="agustos2016_35_c">Konuşma\n</string>
+    <string name="agustos2016_35_d">Gürültü\n</string>
+    //              36
+    <string name="agustos2016_36">36. Şekilde soru işareti (?) ile gösterilen ve diferansiyelden aldığı hareketi tekerleklere ileten güç aktarma organının adı nedir?\n</string>
+    <string name="agustos2016_36_a">Volan\n</string>
+    <string name="agustos2016_36_b">Aks\n</string>
+    <string name="agustos2016_36_c">Kavrama\n</string>
+    <string name="agustos2016_36_d">Vites kutusu\n</string>
+    //              37
+    <string name="agustos2016_37">37. Aracın gösterge panelinde, aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, emniyet kemerinin takılı olmadığını bildirir?\n</string>
+    <string name="agustos2016_37_a">\n</string>
+    <string name="agustos2016_37_b">\n</string>
+    <string name="agustos2016_37_c">\n</string>
+    <string name="agustos2016_37_d">\n</string>
+    //              38
+    <string name="agustos2016_38">38. I. Lastik hava basınçlarının ve yakıt seviyesinin kontrol edilmesi\n
+II.	Aydınlatma ve sinyal sisteminin düzgün çalışıp çalışmadığının kontrol edilmesi\n
+III. Ön koltuklar, kafalıkları ve aynanın beden ölçülerine uygun olarak ayarlanması\n
+Verilenlerden hangileri, aracı kullanmaya başlamadan önce yapılması gereken hazırlıklardandır?
+\n</string>
+    <string name="agustos2016_38_a">Yalnız I\n</string>
+    <string name="agustos2016_38_b">Yalnız II\n</string>
+    <string name="agustos2016_38_c">Yalnız III\n</string>
+    <string name="agustos2016_38_d">I, II ve III\n</string>
+    //              39
+    <string name="agustos2016_39">39. Motorlu araçlarda motorun yağ seviyesini kontrol etmeye yarayan ve özel göstergesi bulunan parçaya ne ad verilir?\n</string>
+    <string name="agustos2016_39_a">Yağdanlık\n</string>
+    <string name="agustos2016_39_b">Yağ filtresi\n</string>
+    <string name="agustos2016_39_c">Yağ çubuğu\n</string>
+    <string name="agustos2016_39_d">Yağ pompası\n</string>
+    //              40
+    <string name="agustos2016_40">40.	Motorun soğutma sisteminde kullanılan
+........ donmayı önlemenin yanı sıra soğutma sıvısının geçtiği yerlerde korozyonu, paslanmayı ve kireç oluşumunu da engelleyerek parçaların ömrünü artırmaktadır.
+Verilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?\n</string>
+    <string name="agustos2016_40_a">sit\n</string>
+    <string name="agustos2016_40_b">antifriz\n</string>
+    <string name="agustos2016_40_c">saf su\n</string>
+    <string name="agustos2016_40_d">elektrolit\n</string>
+    //              41
+    <string name="agustos2016_41">41. Lastik hava basınçlarının çok düşük veya
+çok yüksek olması aşağıdakilerden hangisine neden olur?
+\n</string>
+    <string name="agustos2016_41_a">El freninin arızalanmasına\n</string>
+    <string name="agustos2016_41_b">Sürüş güvenliğinin artmasına\n</string>
+    <string name="agustos2016_41_c">Bijon somunlarının gevşemesine\n</string>
+    <string name="agustos2016_41_d">Lastiklerin kullanım ömrünün kısalmasına\n</string>
+    //              42
+    <string name="agustos2016_42">42. Aracın elektrik sisteminde sigortalardan biri yanmışsa aşağıdakilerden hangisi yapılır?\n</string>
+    <string name="agustos2016_42_a">Aynı amperde yenisi ile değiştirilir.\n</string>
+    <string name="agustos2016_42_b">Daha küçük amperde sigorta ile değiştirilir.\n</string>
+    <string name="agustos2016_42_c">Daha büyük amperde sigorta ile değiştirilir.\n</string>
+    <string name="agustos2016_42_d">Herhangi bir amperde sigorta ile değiştirilir.\n</string>
+    //              43
+    <string name="agustos2016_43">43. Aşağıdakilerden hangisi motor rölanti devrinin yüksek olmasına bağlı olarak meydana gelir?\n</string>
+    <string name="agustos2016_43_a">Yakıt tüketiminin artması\n</string>
+    <string name="agustos2016_43_b">Yakıt tüketiminin düşmesi\n</string>
+    <string name="agustos2016_43_c">Motorun sarsıntılı çalışması\n</string>
+    <string name="agustos2016_43_d">Motorda yağlamanın olmaması\n</string>
+    //              44
+    <string name="agustos2016_44">44. Aracın gösterge panelinde bulunan şekildeki ikaz ışığının, motor çalışmaya başladığında ya da seyir sırasında yanıyor olması sürücüye neyi bildirir?\n</string>
+    <string name="agustos2016_44_a">Motor kaputunun açık kaldığını\n</string>
+    <string name="agustos2016_44_b">Motor yağı basıncının çok düştüğünü\n</string>
+    <string name="agustos2016_44_c">Motor soğutma suyu sisteminde bir arıza olduğunu\n</string>
+    <string name="agustos2016_44_d">Fren sisteminde hidrolik seviye düşüşü veya bir arıza olduğunu\n</string>
+    //              45
+    <string name="agustos2016_45">45. Hangi temel değere sahip sürücü, yoğun trafikte bir dizi hâlinde gitmekte olan diğer sürücülerin önlerine geçip, trafiği daha da sıkışık hâle getirerek yoluna devam etmez?\n</string>
+    <string name="agustos2016_45_a">Bencil\n</string>
+    <string name="agustos2016_45_b">Sorumsuz\n</string>
+    <string name="agustos2016_45_c">Görgü seviyesi düşük\n</string>
+    <string name="agustos2016_45_d">Empati düzeyi yüksek\n</string>
+    //              46
+    <string name="agustos2016_46">46. Aşağıdakilerden hangisi hoşgörü sahibi olmayan sürücülerin özelliklerindendir?\n</string>
+    <string name="agustos2016_46_a">Öfkeli olmak\n</string>
+    <string name="agustos2016_46_b">Sabırlı olmak\n</string>
+    <string name="agustos2016_46_c">Başarılı iletişim kurmak\n</string>
+    <string name="agustos2016_46_d">Bencillikten uzak durmak\n</string>
+    //              47
+    <string name="agustos2016_47">47. Trafikte aracıyla kırmızı ışıkta bekleyen
+sürücünün, ışık yeşile döndüğünde karşıya geçmek için yolu neredeyse yarılamış bir yayanın geçişini tamamlamasını beklemesi, bu sürücünün hangi davranış özelliğine sahip olduğunu gösterir?
+\n</string>
+    <string name="agustos2016_47_a">Öfke\n</string>
+    <string name="agustos2016_47_b">Bencillik\n</string>
+    <string name="agustos2016_47_c">Diğergamlık\n</string>
+    <string name="agustos2016_47_d">Sabırsızlık\n</string>
+    //              48
+    <string name="agustos2016_48">48. Aşağıdakilerden hangisi, araç kullanırken öfke duygusuna kapılan bir sürücünün kendisini sakinleştirmek için uygulaması gereken yöntemlerden biri değildir?\n</string>
+    <string name="agustos2016_48_a">Trafik ortamında gerilimli durumların olabileceğini kabul etmesi\n</string>
+    <string name="agustos2016_48_b">Karşılaşılan durumla ilgili negatif çözümler üretmesi\n</string>
+    <string name="agustos2016_48_c">Radyo veya müzik açması\n</string>
+    <string name="agustos2016_48_d">Derin nefes alması\n</string>
+    //              49
+    <string name="agustos2016_49">49. • Trafikte temel değerleri içselleştirerek doğru davranış göstermek\n
+• Trafikte karşılaşılan sorunları doğru yöntemlerle çözmek\n
+• Sağlıklı ve güvenli bir trafik ortamı oluşmasına katkı sağlamak\n
+Verilenler aşağıdakilerden hangisinin amacını oluşturur?
+\n</string>
+    <string name="agustos2016_49_a">Mizacın\n</string>
+    <string name="agustos2016_49_b">Beden dilinin\n</string>
+    <string name="agustos2016_49_c">Trafik adabının\n</string>
+    <string name="agustos2016_49_d">Konuşma üslubunun\n</string>
+    //              50
+    <string name="agustos2016_50">50. Aşağıdakilerden hangisi, kara yolunda meydana gelen trafik kazalarının çevreye verdiği zararlardan biri değildir?\n</string>
+    <string name="agustos2016_50_a">Açılan çok sayıda dava ile yargı sisteminde iş yükünün artması\n</string>
+    <string name="agustos2016_50_b">Orta refüjlere ve yol kenarlarına dikilen ağaçların zarar görmesi\n</string>
+    <string name="agustos2016_50_c">Köprü, tünel gibi noktalarda yaşanan kazalarda ulaşımın aksaması\n</string>
+    <string name="agustos2016_50_d">Trafo, elektrik direğine çarpma gibi durumlarda kesintiler yaşanması\n</string>
+</resources>

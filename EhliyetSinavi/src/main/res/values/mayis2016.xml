@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //              1
+    <string name="mayis2016_1">1. Tıbbi yardım haberleşmesinde iletilecek mesaj nasıl olmalıdır?\n</string>
+    <string name="mayis2016_1_a">Gizli\n</string>
+    <string name="mayis2016_1_b">Şifreli\n</string>
+    <string name="mayis2016_1_c">Ayrıntılı ve uzun\n</string>
+    <string name="mayis2016_1_d">Kısa, öz ve anlaşılır\n</string>
+    //              2
+    <string name="mayis2016_2">2. Aşağıdakilerden hangisi, kazazedenin ikinci değerlendirilme aşamalarından olan "Görüşerek Bilgi Edinme" basamağında yer alır?\n</string>
+    <string name="mayis2016_2_a">Solunum sayısının değerlendirilmesi\n</string>
+    <string name="mayis2016_2_b">Hoşgörülü ve nazik davranılması\n</string>
+    <string name="mayis2016_2_c">Bilinç düzeyinin kontrol edilmesi\n</string>
+    <string name="mayis2016_2_d">Cilt renginin değerlendirilmesi\n</string>
+    //              3
+    <string name="mayis2016_3">3. "Ağızdan ağıza" suni solunum yapılacak olan kazazedede boyun travması yoksa verilecek en doğru pozisyon aşağıdakilerden hangisidir?\n</string>
+    <string name="mayis2016_3_a">Başın sert bir zeminde hafif yana dönük olması\n</string>
+    <string name="mayis2016_3_b">Başının altına yastık konularak sırtüstü yatırılması\n</string>
+    <string name="mayis2016_3_c">Sırtüstü yatar pozisyonda iken başının geriye doğru olması\n</string>
+    <string name="mayis2016_3_d">Sırtüstü yatar pozisyonda iken çenesinin göğsüne değecek şekilde olması\n</string>
+    //              4
+    <string name="mayis2016_4">4. Kalp masajı uygulaması, aşağıdaki durumların hangisinde sonlandırılır?\n</string>
+    <string name="mayis2016_4_a">Kalp çalıştığında\n</string>
+    <string name="mayis2016_4_b">112´ye haber verildiğinde\n</string>
+    <string name="mayis2016_4_c">Kazazedenin akrabaları geldiğinde\n</string>
+    <string name="mayis2016_4_d">Kazazedenin cildinde kızarıklıklar gözlemlendiğinde\n</string>
+    //              5
+    <string name="mayis2016_5">5. Aşağıdakilerden hangisi kılcal damar kanamasının özelliğidir?\n</string>
+    <string name="mayis2016_5_a">Koyu renkli ve taşma tarzında kan akması\n</string>
+    <string name="mayis2016_5_b">Sızıntı biçiminde ve hafif bir kanama olması\n</string>
+    <string name="mayis2016_5_c">Yüksek basınçla akması ve zor durdurulabilmesi\n</string>
+    <string name="mayis2016_5_d">Yara ağzından kalp atımlarına uyumlu şekilde fışkırarak akması
+\n</string>
+    //              6
+    <string name="mayis2016_6">6. I. İp, tel gibi kesici malzemelerin kullanılması\n
+II.	Uygulamanın yapıldığı saatin bir kâğıda yazılıp kazazedenin üzerine asılması\n
+III. Uzvun koptuğu bölgeye en yakın ve deri bütünlüğü bozulmamış olan yere uygulanması\n
+Verilenlerden hangileri turnike uygulamasında dikkat edilecek hususlardandır?
+\n</string>
+    <string name="mayis2016_6_a">Yalnız I\n</string>
+    <string name="mayis2016_6_b">I ve II\n</string>
+    <string name="mayis2016_6_c">II ve III\n</string>
+    <string name="mayis2016_6_d">I, II ve III\n</string>
+    //              7
+    <string name="mayis2016_7">7. Aşağıdakilerin hangisinde şok pozisyonu vermek sakıncalıdır?\n</string>
+    <string name="mayis2016_7_a">Bacağında kanama olanlarda\n</string>
+    <string name="mayis2016_7_b">El bileğinde açık kırık olanlarda\n</string>
+    <string name="mayis2016_7_c">Tansiyonu düşük ve nabız alınamayanlarda\n</string>
+    <string name="mayis2016_7_d">Burnundan ve kulağından kanama olanlarda\n</string>
+    //              8
+    <string name="mayis2016_8">8.	Aşağıdakilerden hangisi, yaralanmalarda uygulanan genel ilk yardım kurallarından biri değildir?\n</string>
+    <string name="mayis2016_8_a">Kanamanın durdurulması\n</string>
+    <string name="mayis2016_8_b">Yara yerinin değerlendirilmesi\n</string>
+    <string name="mayis2016_8_c">Yara üzerinin pamukla kapatılması\n</string>
+    <string name="mayis2016_8_d">Yaşam bulgularının kontrol edilmesi\n</string>
+    //              9
+    <string name="mayis2016_9">9. Omurga yaralanmalarında geçici veya kalıcı felçlerin oluşmasının nedeni aşağıdakilerden hangisidir?\n</string>
+    <string name="mayis2016_9_a">Omuriliğin baskı altında olması ya da zedelenmesi\n</string>
+    <string name="mayis2016_9_b">Taşıma esnasında baş, boyun ve gövde ekseninin korunması\n</string>
+    <string name="mayis2016_9_c">Kazazedenin sırtüstü, düz pozisyonda yatırılması\n</string>
+    <string name="mayis2016_9_d">Kazazedenin hareketsiz hâle getirilmesi\n</string>
+    //              10
+    <string name="mayis2016_10">10. Kişinin çevre ile bağlantısının tamamen ke-
+sildiği, uyaranlara cevap veremediği derin bilinç kaybına ne denir?\n</string>
+    <string name="mayis2016_10_a">Hâlsizlik\n</string>
+    <string name="mayis2016_10_b">Şok\n</string>
+    <string name="mayis2016_10_c">Kansızlık\n</string>
+    <string name="mayis2016_10_d">Koma\n</string>
+    //              11
+    <string name="mayis2016_11">11. I. Eklem yüzeylerinin anlık olarak ayrılmasıdır.\n
+II.	Eklem yüzeylerinin kalıcı olarak ayrılmasıdır.\n
+III. Darbe sonucu kemiğin anatomik bütünlüğünün bozulmasıdır.\n
+Bulmaca her kutuya bir harf gelecek şekilde tamamlandığında, III numaralı alana aşağıdakilerden hangisi gelmelidir?
+\n</string>
+    <string name="mayis2016_11_a">Kırık\n</string>
+    <string name="mayis2016_11_b">Çıkık\n</string>
+    <string name="mayis2016_11_c">Yanık\n</string>
+    <string name="mayis2016_11_d">Donuk\n</string>
+    //              12
+    <string name="mayis2016_12">12.	Resimde uygulaması gösterilen ve kazazedenin omuriliğine zarar verilmeden araçtan çıkarılmasında kullanılan tekniğe ne ad verilir?\n</string>
+    <string name="mayis2016_12_a">İtfaiyeci yöntemi\n</string>
+    <string name="mayis2016_12_b">Rentek manevrası\n</string>
+    <string name="mayis2016_12_c">Sürükleme yöntemi\n</string>
+    <string name="mayis2016_12_d">Heimlich manevrası\n</string>
+    //              13
+    <string name="mayis2016_13">13. Aşağıdakilerden hangisi, kişiye bağlı gelişen trafik kazası nedenlerinden biri değildir?\n</string>
+    <string name="mayis2016_13_a">Alkol ve madde bağımlılığı\n</string>
+    <string name="mayis2016_13_b">Uzun yolculuklar ve yorgunluk\n</string>
+    <string name="mayis2016_13_c">Tehlikeye atılmaya hazır kişilik yapısı\n</string>
+    <string name="mayis2016_13_d">Olumsuz hava şartları ve yolların bozuk olması\n</string>
+    //              14
+    <string name="mayis2016_14">14. Kara yolu ile demir yolunun aynı seviyede kesiştiği bariyerli veya bariyersiz geçitlere ne ad verilir?\n</string>
+    <string name="mayis2016_14_a">Okul geçidi\n</string>
+    <string name="mayis2016_14_b">Yaya geçidi\n</string>
+    <string name="mayis2016_14_c">Hemzemin geçit\n</string>
+    <string name="mayis2016_14_d">Rampalı geçit\n</string>
+    //              15
+    <string name="mayis2016_15">15. Şekildeki trafik görevlisinin duruş pozisyonuna göre, aşağıdakilerden hangisi doğrudur?\n</string>
+    <string name="mayis2016_15_a">Görevlinin ön ve arka cephesinde kalan yollar trafiğe açıktır.\n</string>
+    <string name="mayis2016_15_b">Görevlinin sağ ve sol kol istikametinde kalan yollar trafiğe açıktır.\n</string>
+    <string name="mayis2016_15_c">Yol bütün yönlerdeki trafiğe kapalıdır.\n</string>
+    <string name="mayis2016_15_d">Yol bütün yönlerdeki trafiğe açıktır.\n</string>
+    //              16
+    <string name="mayis2016_16">16. Işıklı trafik işaret cihazında yanan hangi ışık, dur işaret levhası anlamında olup gidilecek yolun açık olduğu görüldükten sonra yeniden hareket edilmesini bildirir?\n</string>
+    <string name="mayis2016_16_a">Fasılalı olarak yanıp sönen kırmızı ışık\n</string>
+    <string name="mayis2016_16_b">Fasılalı olarak yanıp sönen sarı ışık\n</string>
+    <string name="mayis2016_16_c">Yaya figürlü yeşil ışık\n</string>
+    <string name="mayis2016_16_d">Kırmızı oklu ışık\n</string>
+    //              17
+    <string name="mayis2016_17">17. Şekildeki trafik işaretinin anlamı nedir?\n</string>
+    <string name="mayis2016_17_a">Yaya giremez.\n</string>
+    <string name="mayis2016_17_b">Bisiklet giremez.\n</string>
+    <string name="mayis2016_17_c">At arabası giremez.\n</string>
+    <string name="mayis2016_17_d">Motorlu taşıt giremez.\n</string>
+    //              18
+    <string name="mayis2016_18">18. Aşağıdaki trafik işaretlerinden hangisi genişlik anlamında gabari sınırlamasının olduğunu bildirir?\n</string>
+    <string name="mayis2016_18_a">\n</string>
+    <string name="mayis2016_18_b">\n</string>
+    <string name="mayis2016_18_c">\n</string>
+    <string name="mayis2016_18_d">\n</string>
+    //              19
+    <string name="mayis2016_19">19. Şekildeki trafik işaretini gören sürücü ne yapmalıdır?\n</string>
+    <string name="mayis2016_19_a">Hızını artırmalı\n</string>
+    <string name="mayis2016_19_b">Geriye dönmeli\n</string>
+    <string name="mayis2016_19_c">Hızını azaltmalı\n</string>
+    <string name="mayis2016_19_d">Yolun kayganlığını kontrol etmeli\n</string>
+    //              20
+    <string name="mayis2016_20">20. Şekildeki trafik işareti aşağıdakilerden hangisini bildirir?\n</string>
+    <string name="mayis2016_20_a">Sağdan ana yola girişi\n</string>
+    <string name="mayis2016_20_b">Soldan ana yola girişi\n</string>
+    <string name="mayis2016_20_c">Sağa tehlikeli virajı\n</string>
+    <string name="mayis2016_20_d">Açılan köprüyü\n</string>
+    //              21
+    <string name="mayis2016_21">21. Taşıt yolları üzerine çizilen şekildeki yatay işaretlemelerden hangileri yaya geçidini gösterir?\n</string>
+    <string name="mayis2016_21_a">Yalnız I\n</string>
+    <string name="mayis2016_21_b">I ve II\n</string>
+    <string name="mayis2016_21_c">II ve III	\n</string>
+    <string name="mayis2016_21_d">I, II ve III\n</string>
+    //              22
+    <string name="mayis2016_22">22. Kanlarındaki alkol miktarı kaç promilin üzerinde olan hususi otomobil sürücülerinin kara yolunda araç sürmesi yasaktır?\n</string>
+    <string name="mayis2016_22_a">0,20\n</string>
+    <string name="mayis2016_22_b">0,30\n</string>
+    <string name="mayis2016_22_c">0,40\n</string>
+    <string name="mayis2016_22_d">0,50\n</string>
+    //              23
+    <string name="mayis2016_23">23. Aksine bir işaret yoksa aşağıdaki taşıtlardan hangisinin, yerleşim yeri dışındaki kara yollarında "azami hız sınırı" diğerlerine göre daha fazladır?\n</string>
+    <string name="mayis2016_23_a">Otomobil\n</string>
+    <string name="mayis2016_23_b">Otobüs\n</string>
+    <string name="mayis2016_23_c">Motosiklet	\n</string>
+    <string name="mayis2016_23_d">Kamyon\n</string>
+    //              24
+    <string name="mayis2016_24">24. Şekle göre 2 numaralı aracın sürücüsü ne yapmalıdır?\n</string>
+    <string name="mayis2016_24_a">Hızını artırmalı\n</string>
+    <string name="mayis2016_24_b">U dönüşü yapmalı\n</string>
+    <string name="mayis2016_24_c">1 numaralı araca yol vermeli\n</string>
+    <string name="mayis2016_24_d">1 numaralı aracı ikaz ederek durdurmalı\n</string>
+    //              25
+    <string name="mayis2016_25">25. Şekildeki kara yolu bölümünde, yan yana çizilmiş kesik ve devamlı yol çizgileri sürücülere aşağıdakilerden hangisini bildirir?\n</string>
+    <string name="mayis2016_25_a">İki şeritli yolun tek şeritli yola dönüşeceğini\n</string>
+    <string name="mayis2016_25_b">Çift yönlü yoldan tek yönlü yola girileceğini\n</string>
+    <string name="mayis2016_25_c">Kesik çizgi tarafındaki araçların şerit değiştirebileceğini\n</string>
+    <string name="mayis2016_25_d">Devamlı çizgi tarafındaki araçların şerit değiştirebileceğini\n</string>
+    //              26
+    <string name="mayis2016_26">26. Araç sürücüleri, taşıt yolunun dar olduğu yerlerdeki karşılaşmalarda, aksini gösteren bir trafik işareti yoksa aşağıdakilerden hangisine geçiş hakkı vermek suretiyle geçiş kolaylığı sağlamak zorundadır?\n</string>
+    <string name="mayis2016_26_a">Otomobili süren otobüse\n</string>
+    <string name="mayis2016_26_b">Motorsuz aracı süren motorlu araca\n</string>
+    <string name="mayis2016_26_c">Motorlu aracı süren motorsuz araca\n</string>
+    <string name="mayis2016_26_d">Minibüsü süren lastik tekerlekli traktöre\n</string>
+    //              27
+    <string name="mayis2016_27">27. Yerleşim yeri içinde, trafik işaret levhalarına yaklaşım yönünde kaç metre mesafede duraklamak yasaktır?\n</string>
+    <string name="mayis2016_27_a">15\n</string>
+    <string name="mayis2016_27_b">20\n</string>
+    <string name="mayis2016_27_c">25\n</string>
+    <string name="mayis2016_27_d">30\n</string>
+    //              28
+    <string name="mayis2016_28">28. Şekildeki kavşakta 1 numaralı araç sağa, 2 numaralı araç ise sola dönüş yapmak istemektedir.\n
+    Bu araçlarla ilgili olarak aşağıdakilerden hangileri doğrudur?\n
+I. Her iki araçta dar kavisle dönmelidir.\n
+II.	1 numaralı araç geniş, 2 numaralı araç dar kavisle dönmelidir.\n
+III. 1 numaralı araç dar, 2 numaralı araç geniş kavisle dönmelidir.
+\n</string>
+    <string name="mayis2016_28_a">Yalnız I\n</string>
+    <string name="mayis2016_28_b">Yalnız II\n</string>
+    <string name="mayis2016_28_c">Yalnız III\n</string>
+    <string name="mayis2016_28_d">I, II ve III\n</string>
+    //              29
+    <string name="mayis2016_29">29. Şekilediki gibi dönel kavşağa geleln 1 numaralı aracın sürücüsü ne yapmalıdır?\n</string>
+    <string name="mayis2016_29_a">Korna çalıp 2 numaralı aracı durdurmalı\n</string>
+    <string name="mayis2016_29_b">2 numaralı aracın geçmesini beklemeli\n</string>
+    <string name="mayis2016_29_c">Hızlanarak yoluna devam etmeli\n</string>
+    <string name="mayis2016_29_d">Geçiş hakkını kendi kullanmalı\n</string>
+    //              30
+    <string name="mayis2016_30">30. I. İtfaiye araçları\n
+II.	Organ ve doku nakil araçları\n
+III. Afet ve acil durum hâllerinde afet ve acil durum hizmetlerinde görevli bulunan araçlar\n
+IV.	Sanık veya suçluları takip eden veya genel güvenlik ve asayiş için olay yerine giden zabıta araçları\n
+Verilen araçların görev hâli durumunda birbirleriyle karşılaşmalarında, geçiş üstünlüğü ile kavşaklarda ilk geçiş hakkı sıralaması nasıl olmalıdır?\n</string>
+    <string name="mayis2016_30_a">I - II - III - IV\n</string>
+    <string name="mayis2016_30_b">I - II - IV - III\n</string>
+    <string name="mayis2016_30_c">II - I - IV - III\n</string>
+    <string name="mayis2016_30_d">II - III - I - IV\n</string>
+    //              31
+    <string name="mayis2016_31">31. Yerleşim birimleri dışındaki kara yollarında geceleri seyrederken aşağıdaki durumların hangisinde uzağı gösteren ışıkların yakılması mecburidir?\n</string>
+    <string name="mayis2016_31_a">Karşılaşmalarda\n</string>
+    <string name="mayis2016_31_b">Öndeki araç yakından izlenirken\n</string>
+    <string name="mayis2016_31_c">Aydınlatmanın yeterli olduğu kesimlerde\n</string>
+    <string name="mayis2016_31_d">Yeterince aydınlatılmamış tünellere girerken\n</string>
+    //              32
+    <string name="mayis2016_32">32. 2013-2014 yılları itibariyle ülkemizde meydana gelen trafik kazalarındaki kusur oranları tabloda verilmiştir.\n
+    Buna göre, aşağıdakilerden hangisi trafik kazalarına en fazla neden olmuştur?\n</string>
+    <string name="mayis2016_32_a">Sürücü\n</string>
+    <string name="mayis2016_32_b">Yolcu\n</string>
+    <string name="mayis2016_32_c">Yaya\n</string>
+    <string name="mayis2016_32_d">Araç\n</string>
+    //              33
+    <string name="mayis2016_33">33. I. Araç lastiği seçimi\n
+II.	Çevre ve iklim koşulları\n
+III. Fren sistemi performansı\n
+Verilenlerden hangileri sürüş güvenliğini etkileyen unsurlardandır?
+\n</string>
+    <string name="mayis2016_33_a">Yalnız I\n</string>
+    <string name="mayis2016_33_b">I ve II\n</string>
+    <string name="mayis2016_33_c">II ve III\n</string>
+    <string name="mayis2016_33_d">I, II ve III\n</string>
+    //              34
+    <string name="mayis2016_34">34. • Park probleminin artması\n
+• Çevrenin bozulması ve kirlilik\n
+• Yakıt tüketiminin artması ve israf\n
+• Aracın yıpranması ve ömrünün azalması\n
+• Trafiğin yoğunlaşması ve trafik kargaşası\n
+Verilen sorunlara aşağıdakilerden hangisi daha fazla yol açar?\n</string>
+    <string name="mayis2016_34_a">Trafiğin yoğun olmadığı saatlerde trafiğe çıkılması\n</string>
+    <string name="mayis2016_34_b">Özel araçların zaruri olmayan durumlarda kullanılması\n</string>
+    <string name="mayis2016_34_c">Aynı istikamete giden kişilerle aracın müşterek kullanılması\n</string>
+    <string name="mayis2016_34_d">Mümkün olduğunca toplu taşıma araçlarının tercih edilmesi\n</string>
+    //              35
+    <string name="mayis2016_35">35. Haritalarda gösterilen şekildeki işaret, aşağıdakilerden hangisine verilen yol numarasıdır?\n</string>
+    <string name="mayis2016_35_a">Uluslararası yol\n</string>
+    <string name="mayis2016_35_b">Devlet yolu\n</string>
+    <string name="mayis2016_35_c">Demir yolu\n</string>
+    <string name="mayis2016_35_d">Otoyol\n</string>
+    //              36
+    <string name="mayis2016_36">36. Çarpışma durumunda otomatik olarak şişerek sürücü ve yolcuların ölüm ve yaralanmalarını azaltan pasif güvenlik sisteminin adı nedir?\n</string>
+    <string name="mayis2016_36_a">ABS	\n</string>
+    <string name="mayis2016_36_b">Start-Stop\n</string>
+    <string name="mayis2016_36_c">Hava yastığı\n</string>
+    <string name="mayis2016_36_d">Hafızalı koltuk\n</string>
+    //              37
+    <string name="mayis2016_37">37. Aracın lastikleri ne zaman kontrol edilir?\n</string>
+    <string name="mayis2016_37_a">Günde bir\n</string>
+    <string name="mayis2016_37_b">Haftada bir\n</string>
+    <string name="mayis2016_37_c">Altı ayda bir\n</string>
+    <string name="mayis2016_37_d">Araca binileceği zaman\n</string>
+    //              38
+    <string name="mayis2016_38">38. Seyir hâlindeyken, aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin
+yanması, fren sisteminde hidrolik seviye düşüşü veya bir arıza olduğunu bildirir?
+\n</string>
+    <string name="mayis2016_38_a">\n</string>
+    <string name="mayis2016_38_b">\n</string>
+    <string name="mayis2016_38_c">\n</string>
+    <string name="mayis2016_38_d">\n</string>
+    //              39
+    <string name="mayis2016_39">39. Aşağıdakilerden hangisinin motor çalışma sıcaklığına ulaşmadan önce yapılması uygun değildir?\n</string>
+    <string name="mayis2016_39_a">Ani olarak gaz verilmesi\n</string>
+    <string name="mayis2016_39_b">Yan aynaların kontrol edilmesi\n</string>
+    <string name="mayis2016_39_c">Sol sinyal lambalarının yakılması\n</string>
+    <string name="mayis2016_39_d">Vitesin yumuşak bir şekilde yükseltilmesi\n</string>
+    //              40
+    <string name="mayis2016_40">40. Aşağıdakilerden hangisi motorla vites kutusu arasındaki irtibatı keserek, vites değiştirme imkânı sağlayan güç aktarma organıdır?\n</string>
+    <string name="mayis2016_40_a">Amortisör\n</string>
+    <string name="mayis2016_40_b">Helezon yay\n</string>
+    <string name="mayis2016_40_c">Fren balatası\n</string>
+    <string name="mayis2016_40_d">Kavrama (Debriyaj)\n</string>
+    //              41
+    <string name="mayis2016_41">41. Radyatör kapağının arızalı olması aşağıdakilerden hangisine neden olabilir?\n</string>
+    <string name="mayis2016_41_a">Motorun soğuk çalışmasına\n</string>
+    <string name="mayis2016_41_b">Motorun hararet yapmasına\n</string>
+    <string name="mayis2016_41_c">Fren hidroliğinin azalmasına\n</string>
+    <string name="mayis2016_41_d">Bijon somunlarının gevşemesine\n</string>
+    //              42
+    <string name="mayis2016_42">42. Araca bağlanan römorkta aşağıdaki ikaz sistemlerinin hangisi çalışır durumda olmalıdır?\n</string>
+    <string name="mayis2016_42_a">Korna	\n</string>
+    <string name="mayis2016_42_b">Yağ lambası\n</string>
+    <string name="mayis2016_42_c">Şarj lambası\n</string>
+    <string name="mayis2016_42_d">Park lambası\n</string>
+    //              43
+    <string name="mayis2016_43">43. Motor çalışır durumda iken aracın gösterge panelinde yağ basıncı ikaz ışığı yanıyorsa aşağıdakilerden hangisi yapılır?\n</string>
+    <string name="mayis2016_43_a">Motor devri düşürülür.\n</string>
+    <string name="mayis2016_43_b">Motor devri yükseltilir.\n</string>
+    <string name="mayis2016_43_c">Motor hemen durdurulur.\n</string>
+    <string name="mayis2016_43_d">Motor rölantide çalıştırılır.\n</string>
+    //              44
+    <string name="mayis2016_44">44. Araçta yakıt tasarrufu sağlamak için aşağıdakilerden hangisi yapılır?
+\n</string>
+    <string name="mayis2016_44_a">Motor daima yüksek devirde çalıştırılır.\n</string>
+    <string name="mayis2016_44_b">Lastiklerin hava basıncının normal değerde olmasına dikkat edilir.\n</string>
+    <string name="mayis2016_44_c">Trafiğin yoğun olduğu yollar seçilir.\n</string>
+    <string name="mayis2016_44_d">Aracın yükü ve ağırlığı artırılır.\n</string>
+    //              45
+    <string name="mayis2016_45">45. Sürücü, trafik içinde yapacağı bir kural ihlalinde kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında olmalıdır.\n
+Bu farkındalığı kazanmak için yapılması gereken aşağıdakilerden hangisidir?\n</string>
+    <string name="mayis2016_45_a">Kızgın ve yarışmacı motivasyon ile araç kullanılması\n</string>
+    <string name="mayis2016_45_b">Karşılıklı saygının öncelikle başkalarından beklenmesi\n</string>
+    <string name="mayis2016_45_c">Kural ihlalinin sonucunda sadece maddi ceza olduğunun düşünülmesi\n</string>
+    <string name="mayis2016_45_d">Trafikteki her kuralın altında yatan güvenlik gerekçelerinin sorgulanıp öğrenilmesi\n</string>
+    //              46
+    <string name="mayis2016_46">46. Yağmurlu bir günde araç sürerken kaldırımdaki yayalara su sıçratmamaya özen gösterilmesi durumu, trafikte hangi temel değere sahip olunduğuna örnektir?\n</string>
+    <string name="mayis2016_46_a">İnatlaşmaya\n</string>
+    <string name="mayis2016_46_b">Yardımlaşmaya\n</string>
+    <string name="mayis2016_46_c">Nezaket ve saygıya\n</string>
+    <string name="mayis2016_46_d">Konuşma üslubuna\n</string>
+    //              47
+    <string name="mayis2016_47">47. Yayalara, özellikle de yaşlı, çocuk ve engellilere; yeşil ışık süresinde karşıya geçişi tamamlayamadığından dolayı korna çalma ya da el kol hareketleri ile çabuk geçmeye zorlama hâli, trafikte hangi temel değere sahip olunmadığını gösterir?\n</string>
+    <string name="mayis2016_47_a">Sabır	\n</string>
+    <string name="mayis2016_47_b">Öfke\n</string>
+    <string name="mayis2016_47_c">İnatlaşma	\n</string>
+    <string name="mayis2016_47_d">Aşırı tepki\n</string>
+    //              48
+    <string name="mayis2016_48">48. Trafikte hangi temel değere sahip olan sürücü, aracını park ettiği yerin diğer yol kullanıcıları açısından görme-görülme ya da manevra engeli oluşturup oluşturmadığına dikkat eder?\n</string>
+    <string name="mayis2016_48_a">Bencil\n</string>
+    <string name="mayis2016_48_b">Sorumsuz\n</string>
+    <string name="mayis2016_48_c">Görgü seviyesi düşük\n</string>
+    <string name="mayis2016_48_d">Empati düzeyi yüksek\n</string>
+    //              49
+    <string name="mayis2016_49">49. Aşağıdakilerden hangisi, öfkeyi başarılı bir şekilde yönetmek için önerilen davranışlardan biri değildir?\n</string>
+    <string name="mayis2016_49_a">İletişim becerilerinin geliştirilmesi\n</string>
+    <string name="mayis2016_49_b">Alaycı ve aşağılayıcı mizaha başvurulması\n</string>
+    <string name="mayis2016_49_c">Düşünme tarzının yeniden yapılandırılması\n</string>
+    <string name="mayis2016_49_d">Nefes egzersizlerinin öğrenilip uygulanması\n</string>
+    //              50
+    <string name="mayis2016_50">50. Trafik kazası geçiren kişiler;\n
+I. Canlarına bir zarar gelmese bile psikolojik olarak zarar görürler.\n
+II.	Kişilerin bu bozuk psikolojileri ailelerine ve topluma olumlu yansır.\n
+Verilenler için aşağıdakilerden hangisi söylenebilir?\n</string>
+    <string name="mayis2016_50_a">I. doğru, II. yanlış\n</string>
+    <string name="mayis2016_50_b">I. yanlış, II. doğru\n</string>
+    <string name="mayis2016_50_c">Her ikisi de doğru\n</string>
+    <string name="mayis2016_50_d">Her ikisi de yanlış\n</string>
+</resources>
